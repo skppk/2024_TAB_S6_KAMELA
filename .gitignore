@@ -1,0 +1,5 @@
+#ignore packages and bulid dependecies
+TAB_Stacja/TAB_Stacja/TAB_Stacja/bin
+TAB_Stacja/TAB_Stacja/.vs
+TAB_Stacja/TAB_Stacja/packages/
+TAB_Stacja/TAB_Stacja/TAB_Stacja/obj

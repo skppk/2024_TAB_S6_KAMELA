@@ -1,85 +1,93 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Pulpit\\TAB\\TAB_Stacja\\TAB_Stacja\\",
+  "WorkspaceRootPath": "C:\\PROJEKT_TAB\\2024_TAB_S6_KAMELA\\TAB_Stacja\\TAB_Stacja\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|e:\\pulpit\\tab\\tab_stacja\\tab_stacja\\tab_stacja\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|solutionrelative:tab_stacja\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|C:\\PROJEKT_TAB\\2024_TAB_S6_KAMELA\\TAB_Stacja\\TAB_Stacja\\tab_stacja\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|solutionrelative:tab_stacja\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|E:\\Pulpit\\TAB\\TAB_Stacja\\TAB_Stacja\\tab_stacja\\serviceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|solutionrelative:tab_stacja\\serviceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|c:\\projekt_tab\\2024_tab_s6_kamela\\tab_stacja\\tab_stacja\\tab_stacja\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|solutionrelative:tab_stacja\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|E:\\Pulpit\\TAB\\TAB_Stacja\\TAB_Stacja\\tab_stacja\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|solutionrelative:tab_stacja\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|E:\\Pulpit\\TAB\\TAB_Stacja\\TAB_Stacja\\tab_stacja\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|solutionrelative:tab_stacja\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|E:\\Pulpit\\TAB\\TAB_Stacja\\TAB_Stacja\\tab_stacja\\editusertickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|solutionrelative:tab_stacja\\editusertickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|E:\\Pulpit\\TAB\\TAB_Stacja\\TAB_Stacja\\tab_stacja\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|solutionrelative:tab_stacja\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|E:\\Pulpit\\TAB\\TAB_Stacja\\TAB_Stacja\\tab_stacja\\managementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|solutionrelative:tab_stacja\\managementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|E:\\Pulpit\\TAB\\TAB_Stacja\\TAB_Stacja\\tab_stacja\\sellerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|solutionrelative:tab_stacja\\sellerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|E:\\Pulpit\\TAB\\TAB_Stacja\\TAB_Stacja\\tab_stacja\\serviceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|solutionrelative:tab_stacja\\serviceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|E:\\Pulpit\\TAB\\TAB_Stacja\\TAB_Stacja\\tab_stacja\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|solutionrelative:tab_stacja\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|E:\\Pulpit\\TAB\\TAB_Stacja\\TAB_Stacja\\tab_stacja\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|solutionrelative:tab_stacja\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|E:\\Pulpit\\TAB\\TAB_Stacja\\TAB_Stacja\\tab_stacja\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|solutionrelative:tab_stacja\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|E:\\Pulpit\\TAB\\TAB_Stacja\\TAB_Stacja\\tab_stacja\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|solutionrelative:tab_stacja\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|E:\\Pulpit\\TAB\\TAB_Stacja\\TAB_Stacja\\tab_stacja\\adminform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|solutionrelative:tab_stacja\\adminform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|E:\\Pulpit\\TAB\\TAB_Stacja\\TAB_Stacja\\tab_stacja\\managementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|solutionrelative:tab_stacja\\managementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|E:\\Pulpit\\TAB\\TAB_Stacja\\TAB_Stacja\\tab_stacja\\serviceform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|solutionrelative:tab_stacja\\serviceform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|E:\\Pulpit\\TAB\\TAB_Stacja\\TAB_Stacja\\tab_stacja\\userform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|solutionrelative:tab_stacja\\userform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|E:\\Pulpit\\TAB\\TAB_Stacja\\TAB_Stacja\\tab_stacja\\editusertickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|solutionrelative:tab_stacja\\editusertickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|E:\\Pulpit\\TAB\\TAB_Stacja\\TAB_Stacja\\tab_stacja\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|c:\\projekt_tab\\2024_tab_s6_kamela\\tab_stacja\\tab_stacja\\tab_stacja\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|solutionrelative:tab_stacja\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|E:\\Pulpit\\TAB\\TAB_Stacja\\TAB_Stacja\\tab_stacja\\userform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|C:\\PROJEKT_TAB\\2024_TAB_S6_KAMELA\\TAB_Stacja\\TAB_Stacja\\tab_stacja\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|solutionrelative:tab_stacja\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|C:\\PROJEKT_TAB\\2024_TAB_S6_KAMELA\\TAB_Stacja\\TAB_Stacja\\tab_stacja\\serviceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|solutionrelative:tab_stacja\\serviceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|C:\\PROJEKT_TAB\\2024_TAB_S6_KAMELA\\TAB_Stacja\\TAB_Stacja\\tab_stacja\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|solutionrelative:tab_stacja\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|C:\\PROJEKT_TAB\\2024_TAB_S6_KAMELA\\TAB_Stacja\\TAB_Stacja\\tab_stacja\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|solutionrelative:tab_stacja\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|C:\\PROJEKT_TAB\\2024_TAB_S6_KAMELA\\TAB_Stacja\\TAB_Stacja\\tab_stacja\\editusertickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|solutionrelative:tab_stacja\\editusertickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|C:\\PROJEKT_TAB\\2024_TAB_S6_KAMELA\\TAB_Stacja\\TAB_Stacja\\tab_stacja\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|solutionrelative:tab_stacja\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|C:\\PROJEKT_TAB\\2024_TAB_S6_KAMELA\\TAB_Stacja\\TAB_Stacja\\tab_stacja\\managementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|solutionrelative:tab_stacja\\managementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|C:\\PROJEKT_TAB\\2024_TAB_S6_KAMELA\\TAB_Stacja\\TAB_Stacja\\tab_stacja\\sellerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|solutionrelative:tab_stacja\\sellerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|C:\\PROJEKT_TAB\\2024_TAB_S6_KAMELA\\TAB_Stacja\\TAB_Stacja\\tab_stacja\\serviceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|solutionrelative:tab_stacja\\serviceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|C:\\PROJEKT_TAB\\2024_TAB_S6_KAMELA\\TAB_Stacja\\TAB_Stacja\\tab_stacja\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|solutionrelative:tab_stacja\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|C:\\PROJEKT_TAB\\2024_TAB_S6_KAMELA\\TAB_Stacja\\TAB_Stacja\\tab_stacja\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|solutionrelative:tab_stacja\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|C:\\PROJEKT_TAB\\2024_TAB_S6_KAMELA\\TAB_Stacja\\TAB_Stacja\\tab_stacja\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|solutionrelative:tab_stacja\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|C:\\PROJEKT_TAB\\2024_TAB_S6_KAMELA\\TAB_Stacja\\TAB_Stacja\\tab_stacja\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|solutionrelative:tab_stacja\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|C:\\PROJEKT_TAB\\2024_TAB_S6_KAMELA\\TAB_Stacja\\TAB_Stacja\\tab_stacja\\adminform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|solutionrelative:tab_stacja\\adminform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|C:\\PROJEKT_TAB\\2024_TAB_S6_KAMELA\\TAB_Stacja\\TAB_Stacja\\tab_stacja\\managementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|solutionrelative:tab_stacja\\managementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|C:\\PROJEKT_TAB\\2024_TAB_S6_KAMELA\\TAB_Stacja\\TAB_Stacja\\tab_stacja\\serviceform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|solutionrelative:tab_stacja\\serviceform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|C:\\PROJEKT_TAB\\2024_TAB_S6_KAMELA\\TAB_Stacja\\TAB_Stacja\\tab_stacja\\userform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|solutionrelative:tab_stacja\\userform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|C:\\PROJEKT_TAB\\2024_TAB_S6_KAMELA\\TAB_Stacja\\TAB_Stacja\\tab_stacja\\editusertickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|solutionrelative:tab_stacja\\editusertickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|C:\\PROJEKT_TAB\\2024_TAB_S6_KAMELA\\TAB_Stacja\\TAB_Stacja\\tab_stacja\\userform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
       "RelativeMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|solutionrelative:tab_stacja\\userform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
     }
   ],
@@ -90,104 +98,142 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserForm.cs [Projekt]",
-              "DocumentMoniker": "E:\\Pulpit\\TAB\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\UserForm.cs",
-              "RelativeDocumentMoniker": "TAB_Stacja\\UserForm.cs",
-              "ToolTip": "E:\\Pulpit\\TAB\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\UserForm.cs [Projekt]",
-              "RelativeToolTip": "TAB_Stacja\\UserForm.cs [Projekt]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T16:20:23.857Z",
-              "EditorCaption": " [Projekt]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ServiceForm.cs [Projekt]",
-              "DocumentMoniker": "E:\\Pulpit\\TAB\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\ServiceForm.cs",
-              "RelativeDocumentMoniker": "TAB_Stacja\\ServiceForm.cs",
-              "ToolTip": "E:\\Pulpit\\TAB\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\ServiceForm.cs [Projekt]",
-              "RelativeToolTip": "TAB_Stacja\\ServiceForm.cs [Projekt]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T17:11:33.563Z"
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\PROJEKT_TAB\\2024_TAB_S6_KAMELA\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\packages.config",
+              "RelativeDocumentMoniker": "TAB_Stacja\\packages.config",
+              "ToolTip": "C:\\PROJEKT_TAB\\2024_TAB_S6_KAMELA\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\packages.config",
+              "RelativeToolTip": "TAB_Stacja\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-08T09:04:16.378Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Registration.cs [Projekt]",
-              "DocumentMoniker": "E:\\Pulpit\\TAB\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\Registration.cs",
+              "DocumentMoniker": "C:\\PROJEKT_TAB\\2024_TAB_S6_KAMELA\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\Registration.cs",
               "RelativeDocumentMoniker": "TAB_Stacja\\Registration.cs",
-              "ToolTip": "E:\\Pulpit\\TAB\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\Registration.cs [Projekt]",
+              "ToolTip": "C:\\PROJEKT_TAB\\2024_TAB_S6_KAMELA\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\Registration.cs [Projekt]",
               "RelativeToolTip": "TAB_Stacja\\Registration.cs [Projekt]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-28T16:35:20.145Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Login.cs [Projekt]",
-              "DocumentMoniker": "E:\\Pulpit\\TAB\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\Login.cs",
+              "DocumentMoniker": "C:\\PROJEKT_TAB\\2024_TAB_S6_KAMELA\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\Login.cs",
               "RelativeDocumentMoniker": "TAB_Stacja\\Login.cs",
-              "ToolTip": "E:\\Pulpit\\TAB\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\Login.cs [Projekt]",
+              "ToolTip": "C:\\PROJEKT_TAB\\2024_TAB_S6_KAMELA\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\Login.cs [Projekt]",
               "RelativeToolTip": "TAB_Stacja\\Login.cs [Projekt]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-28T15:09:36.661Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "EditUserTickets.cs [Projekt]",
-              "DocumentMoniker": "E:\\Pulpit\\TAB\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\EditUserTickets.cs",
+              "DocumentMoniker": "C:\\PROJEKT_TAB\\2024_TAB_S6_KAMELA\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\EditUserTickets.cs",
               "RelativeDocumentMoniker": "TAB_Stacja\\EditUserTickets.cs",
-              "ToolTip": "E:\\Pulpit\\TAB\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\EditUserTickets.cs [Projekt]",
+              "ToolTip": "C:\\PROJEKT_TAB\\2024_TAB_S6_KAMELA\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\EditUserTickets.cs [Projekt]",
               "RelativeToolTip": "TAB_Stacja\\EditUserTickets.cs [Projekt]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-28T17:04:45.545Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "AdminForm.cs [Projekt]",
-              "DocumentMoniker": "E:\\Pulpit\\TAB\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\AdminForm.cs",
+              "DocumentMoniker": "C:\\PROJEKT_TAB\\2024_TAB_S6_KAMELA\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\AdminForm.cs",
               "RelativeDocumentMoniker": "TAB_Stacja\\AdminForm.cs",
-              "ToolTip": "E:\\Pulpit\\TAB\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\AdminForm.cs [Projekt]",
+              "ToolTip": "C:\\PROJEKT_TAB\\2024_TAB_S6_KAMELA\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\AdminForm.cs [Projekt]",
               "RelativeToolTip": "TAB_Stacja\\AdminForm.cs [Projekt]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-28T17:15:12.341Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PROJEKT_TAB\\2024_TAB_S6_KAMELA\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\Program.cs",
+              "RelativeDocumentMoniker": "TAB_Stacja\\Program.cs",
+              "ToolTip": "C:\\PROJEKT_TAB\\2024_TAB_S6_KAMELA\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\Program.cs",
+              "RelativeToolTip": "TAB_Stacja\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T15:10:05.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserForm.cs [Projekt]",
+              "DocumentMoniker": "C:\\PROJEKT_TAB\\2024_TAB_S6_KAMELA\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\UserForm.cs",
+              "RelativeDocumentMoniker": "TAB_Stacja\\UserForm.cs",
+              "ToolTip": "C:\\PROJEKT_TAB\\2024_TAB_S6_KAMELA\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\UserForm.cs [Projekt]",
+              "RelativeToolTip": "TAB_Stacja\\UserForm.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T16:20:23.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\PROJEKT_TAB\\2024_TAB_S6_KAMELA\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\Database.cs",
+              "RelativeDocumentMoniker": "TAB_Stacja\\Database.cs",
+              "ToolTip": "C:\\PROJEKT_TAB\\2024_TAB_S6_KAMELA\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\Database.cs",
+              "RelativeToolTip": "TAB_Stacja\\Database.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACkAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T08:07:49.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceForm.cs [Projekt]",
+              "DocumentMoniker": "C:\\PROJEKT_TAB\\2024_TAB_S6_KAMELA\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\ServiceForm.cs",
+              "RelativeDocumentMoniker": "TAB_Stacja\\ServiceForm.cs",
+              "ToolTip": "C:\\PROJEKT_TAB\\2024_TAB_S6_KAMELA\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\ServiceForm.cs [Projekt]",
+              "RelativeToolTip": "TAB_Stacja\\ServiceForm.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T17:11:33.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "ManagementForm.cs [Projekt]",
-              "DocumentMoniker": "E:\\Pulpit\\TAB\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\ManagementForm.cs",
+              "DocumentMoniker": "C:\\PROJEKT_TAB\\2024_TAB_S6_KAMELA\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\ManagementForm.cs",
               "RelativeDocumentMoniker": "TAB_Stacja\\ManagementForm.cs",
-              "ToolTip": "E:\\Pulpit\\TAB\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\ManagementForm.cs [Projekt]",
+              "ToolTip": "C:\\PROJEKT_TAB\\2024_TAB_S6_KAMELA\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\ManagementForm.cs [Projekt]",
               "RelativeToolTip": "TAB_Stacja\\ManagementForm.cs [Projekt]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-28T17:12:35.27Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "SellerForm.cs [Projekt]",
-              "DocumentMoniker": "E:\\Pulpit\\TAB\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\SellerForm.cs",
+              "DocumentMoniker": "C:\\PROJEKT_TAB\\2024_TAB_S6_KAMELA\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\SellerForm.cs",
               "RelativeDocumentMoniker": "TAB_Stacja\\SellerForm.cs",
-              "ToolTip": "E:\\Pulpit\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\SellerForm.cs [Projekt]",
-              "RelativeToolTip": "..\\..\\..\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\SellerForm.cs [Projekt]",
+              "ToolTip": "C:\\PROJEKT_TAB\\2024_TAB_S6_KAMELA\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\SellerForm.cs [Projekt]",
+              "RelativeToolTip": "TAB_Stacja\\SellerForm.cs [Projekt]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-28T17:11:31.726Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "ServiceForm.cs",
-              "DocumentMoniker": "E:\\Pulpit\\TAB\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\ServiceForm.cs",
+              "DocumentMoniker": "C:\\PROJEKT_TAB\\2024_TAB_S6_KAMELA\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\ServiceForm.cs",
               "RelativeDocumentMoniker": "TAB_Stacja\\ServiceForm.cs",
-              "ToolTip": "E:\\Pulpit\\TAB\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\ServiceForm.cs",
+              "ToolTip": "C:\\PROJEKT_TAB\\2024_TAB_S6_KAMELA\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\ServiceForm.cs",
               "RelativeToolTip": "TAB_Stacja\\ServiceForm.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -195,11 +241,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Login.cs",
-              "DocumentMoniker": "E:\\Pulpit\\TAB\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\Login.cs",
+              "DocumentMoniker": "C:\\PROJEKT_TAB\\2024_TAB_S6_KAMELA\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\Login.cs",
               "RelativeDocumentMoniker": "TAB_Stacja\\Login.cs",
-              "ToolTip": "E:\\Pulpit\\TAB\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\Login.cs",
+              "ToolTip": "C:\\PROJEKT_TAB\\2024_TAB_S6_KAMELA\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\Login.cs",
               "RelativeToolTip": "TAB_Stacja\\Login.cs",
               "ViewState": "AQIAAEkAAAAAAAAAAAAUwFwAAABTAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -207,11 +253,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Login.Designer.cs",
-              "DocumentMoniker": "E:\\Pulpit\\TAB\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\Login.Designer.cs",
+              "DocumentMoniker": "C:\\PROJEKT_TAB\\2024_TAB_S6_KAMELA\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\Login.Designer.cs",
               "RelativeDocumentMoniker": "TAB_Stacja\\Login.Designer.cs",
-              "ToolTip": "E:\\Pulpit\\TAB\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\Login.Designer.cs",
+              "ToolTip": "C:\\PROJEKT_TAB\\2024_TAB_S6_KAMELA\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\Login.Designer.cs",
               "RelativeToolTip": "TAB_Stacja\\Login.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -219,11 +265,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "ManagementForm.cs",
-              "DocumentMoniker": "E:\\Pulpit\\TAB\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\ManagementForm.cs",
+              "DocumentMoniker": "C:\\PROJEKT_TAB\\2024_TAB_S6_KAMELA\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\ManagementForm.cs",
               "RelativeDocumentMoniker": "TAB_Stacja\\ManagementForm.cs",
-              "ToolTip": "E:\\Pulpit\\TAB\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\ManagementForm.cs",
+              "ToolTip": "C:\\PROJEKT_TAB\\2024_TAB_S6_KAMELA\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\ManagementForm.cs",
               "RelativeToolTip": "TAB_Stacja\\ManagementForm.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAgwA4AAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -231,11 +277,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "AdminForm.Designer.cs",
-              "DocumentMoniker": "E:\\Pulpit\\TAB\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\AdminForm.Designer.cs",
+              "DocumentMoniker": "C:\\PROJEKT_TAB\\2024_TAB_S6_KAMELA\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\AdminForm.Designer.cs",
               "RelativeDocumentMoniker": "TAB_Stacja\\AdminForm.Designer.cs",
-              "ToolTip": "E:\\Pulpit\\TAB\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\AdminForm.Designer.cs",
+              "ToolTip": "C:\\PROJEKT_TAB\\2024_TAB_S6_KAMELA\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\AdminForm.Designer.cs",
               "RelativeToolTip": "TAB_Stacja\\AdminForm.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -243,11 +289,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "AdminForm.cs",
-              "DocumentMoniker": "E:\\Pulpit\\TAB\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\AdminForm.cs",
+              "DocumentMoniker": "C:\\PROJEKT_TAB\\2024_TAB_S6_KAMELA\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\AdminForm.cs",
               "RelativeDocumentMoniker": "TAB_Stacja\\AdminForm.cs",
-              "ToolTip": "E:\\Pulpit\\TAB\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\AdminForm.cs",
+              "ToolTip": "C:\\PROJEKT_TAB\\2024_TAB_S6_KAMELA\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\AdminForm.cs",
               "RelativeToolTip": "TAB_Stacja\\AdminForm.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -255,11 +301,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "UserForm.cs",
-              "DocumentMoniker": "E:\\Pulpit\\TAB\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\UserForm.cs",
+              "DocumentMoniker": "C:\\PROJEKT_TAB\\2024_TAB_S6_KAMELA\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\UserForm.cs",
               "RelativeDocumentMoniker": "TAB_Stacja\\UserForm.cs",
-              "ToolTip": "E:\\Pulpit\\TAB\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\UserForm.cs",
+              "ToolTip": "C:\\PROJEKT_TAB\\2024_TAB_S6_KAMELA\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\UserForm.cs",
               "RelativeToolTip": "TAB_Stacja\\UserForm.cs",
               "ViewState": "AQIAABkAAAAAAAAAAAA5wDAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -267,11 +313,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "ServiceForm.Designer.cs",
-              "DocumentMoniker": "E:\\Pulpit\\TAB\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\ServiceForm.Designer.cs",
+              "DocumentMoniker": "C:\\PROJEKT_TAB\\2024_TAB_S6_KAMELA\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\ServiceForm.Designer.cs",
               "RelativeDocumentMoniker": "TAB_Stacja\\ServiceForm.Designer.cs",
-              "ToolTip": "E:\\Pulpit\\TAB\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\ServiceForm.Designer.cs",
+              "ToolTip": "C:\\PROJEKT_TAB\\2024_TAB_S6_KAMELA\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\ServiceForm.Designer.cs",
               "RelativeToolTip": "TAB_Stacja\\ServiceForm.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -279,11 +325,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "UserForm.Designer.cs",
-              "DocumentMoniker": "E:\\Pulpit\\TAB\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\UserForm.Designer.cs",
+              "DocumentMoniker": "C:\\PROJEKT_TAB\\2024_TAB_S6_KAMELA\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\UserForm.Designer.cs",
               "RelativeDocumentMoniker": "TAB_Stacja\\UserForm.Designer.cs",
-              "ToolTip": "E:\\Pulpit\\TAB\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\UserForm.Designer.cs",
+              "ToolTip": "C:\\PROJEKT_TAB\\2024_TAB_S6_KAMELA\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\UserForm.Designer.cs",
               "RelativeToolTip": "TAB_Stacja\\UserForm.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -291,38 +337,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "UserForm.resx",
-              "DocumentMoniker": "E:\\Pulpit\\TAB\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\UserForm.resx",
+              "DocumentMoniker": "C:\\PROJEKT_TAB\\2024_TAB_S6_KAMELA\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\UserForm.resx",
               "RelativeDocumentMoniker": "TAB_Stacja\\UserForm.resx",
-              "ToolTip": "E:\\Pulpit\\TAB\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\UserForm.resx",
+              "ToolTip": "C:\\PROJEKT_TAB\\2024_TAB_S6_KAMELA\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\UserForm.resx",
               "RelativeToolTip": "TAB_Stacja\\UserForm.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
               "WhenOpened": "2024-04-28T16:56:31.046Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "EditUserTickets.cs",
-              "DocumentMoniker": "E:\\Pulpit\\TAB\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\EditUserTickets.cs",
+              "DocumentMoniker": "C:\\PROJEKT_TAB\\2024_TAB_S6_KAMELA\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\EditUserTickets.cs",
               "RelativeDocumentMoniker": "TAB_Stacja\\EditUserTickets.cs",
-              "ToolTip": "E:\\Pulpit\\TAB\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\EditUserTickets.cs",
+              "ToolTip": "C:\\PROJEKT_TAB\\2024_TAB_S6_KAMELA\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\EditUserTickets.cs",
               "RelativeToolTip": "TAB_Stacja\\EditUserTickets.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAowA8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-28T17:06:34.743Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Pulpit\\TAB\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\Program.cs",
-              "RelativeDocumentMoniker": "TAB_Stacja\\Program.cs",
-              "ToolTip": "E:\\Pulpit\\TAB\\TAB_Stacja\\TAB_Stacja\\TAB_Stacja\\Program.cs",
-              "RelativeToolTip": "TAB_Stacja\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T15:10:05.235Z"
             }
           ]
         }

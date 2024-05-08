@@ -14,8 +14,10 @@ namespace TAB_Stacja
         [STAThread]
         static void Main()
         {
+            DatabaseOperations testBase = new DatabaseOperations();
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
+            testBase.Activate();
             Application.Run(new Login());
         }
     }
