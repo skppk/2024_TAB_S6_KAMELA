@@ -34,12 +34,13 @@
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.button4 = new System.Windows.Forms.Button();
+            this.button5 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // back_button
             // 
             this.back_button.Location = new System.Drawing.Point(843, 511);
-            this.back_button.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.back_button.Margin = new System.Windows.Forms.Padding(4);
             this.back_button.Name = "back_button";
             this.back_button.Size = new System.Drawing.Size(100, 28);
             this.back_button.TabIndex = 5;
@@ -50,7 +51,7 @@
             // exit_button
             // 
             this.exit_button.Location = new System.Drawing.Point(951, 511);
-            this.exit_button.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.exit_button.Margin = new System.Windows.Forms.Padding(4);
             this.exit_button.Name = "exit_button";
             this.exit_button.Size = new System.Drawing.Size(100, 28);
             this.exit_button.TabIndex = 4;
@@ -93,7 +94,7 @@
             // 
             // button4
             // 
-            this.button4.Location = new System.Drawing.Point(419, 426);
+            this.button4.Location = new System.Drawing.Point(108, 49);
             this.button4.Margin = new System.Windows.Forms.Padding(4);
             this.button4.Name = "button4";
             this.button4.RightToLeft = System.Windows.Forms.RightToLeft.No;
@@ -102,18 +103,31 @@
             this.button4.Text = "MODYFIKACJA ROZKŁADU WYCIĄGU";
             this.button4.UseVisualStyleBackColor = true;
             // 
+            // button5
+            // 
+            this.button5.Location = new System.Drawing.Point(108, 175);
+            this.button5.Margin = new System.Windows.Forms.Padding(4);
+            this.button5.Name = "button5";
+            this.button5.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.button5.Size = new System.Drawing.Size(249, 57);
+            this.button5.TabIndex = 12;
+            this.button5.Text = "MODYFIKACJA CENNIKA";
+            this.button5.UseVisualStyleBackColor = true;
+            this.button5.Click += new System.EventHandler(this.button5_Click);
+            // 
             // AdminForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1067, 554);
+            this.Controls.Add(this.button5);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.back_button);
             this.Controls.Add(this.exit_button);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "AdminForm";
             this.Text = "AdminForm";
             this.ResumeLayout(false);
@@ -128,5 +142,6 @@
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button4;
+        private System.Windows.Forms.Button button5;
     }
 }

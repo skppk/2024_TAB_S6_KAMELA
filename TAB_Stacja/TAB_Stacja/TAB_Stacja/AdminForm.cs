@@ -27,5 +27,11 @@ namespace TAB_Stacja
             new Login().Show();
             this.Close();
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            new PriceList().Show();
+            this.Close();
+        }
     }
 }

@@ -1,0 +1,181 @@
+C:\Users\nikod\OneDrive\Pulpit\Studia\TAB\TAB_Stacja\TAB_Stacja\bin\Debug\TAB_Stacja.exe.config
+C:\Users\nikod\OneDrive\Pulpit\Studia\TAB\TAB_Stacja\TAB_Stacja\bin\Debug\TAB_Stacja.exe
+C:\Users\nikod\OneDrive\Pulpit\Studia\TAB\TAB_Stacja\TAB_Stacja\bin\Debug\TAB_Stacja.pdb
+C:\Users\nikod\OneDrive\Pulpit\Studia\TAB\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.csproj.AssemblyReference.cache
+C:\Users\nikod\OneDrive\Pulpit\Studia\TAB\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.Login.resources
+C:\Users\nikod\OneDrive\Pulpit\Studia\TAB\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.Properties.Resources.resources
+C:\Users\nikod\OneDrive\Pulpit\Studia\TAB\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.csproj.GenerateResource.cache
+C:\Users\nikod\OneDrive\Pulpit\Studia\TAB\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.csproj.CoreCompileInputs.cache
+C:\Users\nikod\OneDrive\Pulpit\Studia\TAB\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.exe
+C:\Users\nikod\OneDrive\Pulpit\Studia\TAB\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.pdb
+C:\Users\nikod\OneDrive\Pulpit\Studia\TAB\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.UserForm.resources
+C:\Users\nikod\OneDrive\Pulpit\Studia\TAB\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.Registration.resources
+C:\Users\SzynS\Downloads\TAB_Stacja\TAB_Stacja\TAB_Stacja\bin\Debug\TAB_Stacja.exe.config
+C:\Users\SzynS\Downloads\TAB_Stacja\TAB_Stacja\TAB_Stacja\bin\Debug\TAB_Stacja.exe
+C:\Users\SzynS\Downloads\TAB_Stacja\TAB_Stacja\TAB_Stacja\bin\Debug\TAB_Stacja.pdb
+C:\Users\SzynS\Downloads\TAB_Stacja\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.csproj.AssemblyReference.cache
+C:\Users\SzynS\Downloads\TAB_Stacja\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.Login.resources
+C:\Users\SzynS\Downloads\TAB_Stacja\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.Properties.Resources.resources
+C:\Users\SzynS\Downloads\TAB_Stacja\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.Registration.resources
+C:\Users\SzynS\Downloads\TAB_Stacja\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.UserForm.resources
+C:\Users\SzynS\Downloads\TAB_Stacja\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.csproj.GenerateResource.cache
+C:\Users\SzynS\Downloads\TAB_Stacja\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.csproj.CoreCompileInputs.cache
+C:\Users\SzynS\Downloads\TAB_Stacja\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.exe
+C:\Users\SzynS\Downloads\TAB_Stacja\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.pdb
+C:\Users\SzynS\Downloads\TAB_Stacja\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.EditUserTickets.resources
+C:\Users\SzynS\Downloads\TAB_Stacja\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.SellerForm.resources
+C:\Users\SzynS\Downloads\TAB_Stacja\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.ManagementForm.resources
+C:\Users\SzynS\Downloads\TAB_Stacja\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.ServiceForm.resources
+C:\Users\SzynS\Downloads\TAB_Stacja\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.AdminForm.resources
+E:\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\bin\Debug\TAB_Stacja.exe.config
+E:\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\bin\Debug\TAB_Stacja.exe
+E:\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\bin\Debug\TAB_Stacja.pdb
+E:\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.csproj.AssemblyReference.cache
+E:\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.AdminForm.resources
+E:\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.EditUserTickets.resources
+E:\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.Login.resources
+E:\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.ManagementForm.resources
+E:\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.Properties.Resources.resources
+E:\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.Registration.resources
+E:\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.SellerForm.resources
+E:\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.ServiceForm.resources
+E:\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.UserForm.resources
+E:\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.csproj.GenerateResource.cache
+E:\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.csproj.CoreCompileInputs.cache
+E:\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.exe
+E:\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.pdb
+C:\Users\SzynS\Downloads\TAB_Stacja (2)\TAB_Stacja\TAB_Stacja\TAB_Stacja\bin\Debug\TAB_Stacja.exe.config
+C:\Users\SzynS\Downloads\TAB_Stacja (2)\TAB_Stacja\TAB_Stacja\TAB_Stacja\bin\Debug\TAB_Stacja.exe
+C:\Users\SzynS\Downloads\TAB_Stacja (2)\TAB_Stacja\TAB_Stacja\TAB_Stacja\bin\Debug\TAB_Stacja.pdb
+C:\Users\SzynS\Downloads\TAB_Stacja (2)\TAB_Stacja\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.csproj.AssemblyReference.cache
+C:\Users\SzynS\Downloads\TAB_Stacja (2)\TAB_Stacja\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.AdminForm.resources
+C:\Users\SzynS\Downloads\TAB_Stacja (2)\TAB_Stacja\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.EditUserTickets.resources
+C:\Users\SzynS\Downloads\TAB_Stacja (2)\TAB_Stacja\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.Login.resources
+C:\Users\SzynS\Downloads\TAB_Stacja (2)\TAB_Stacja\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.ManagementForm.resources
+C:\Users\SzynS\Downloads\TAB_Stacja (2)\TAB_Stacja\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.Properties.Resources.resources
+C:\Users\SzynS\Downloads\TAB_Stacja (2)\TAB_Stacja\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.Registration.resources
+C:\Users\SzynS\Downloads\TAB_Stacja (2)\TAB_Stacja\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.SellerForm.resources
+C:\Users\SzynS\Downloads\TAB_Stacja (2)\TAB_Stacja\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.ServiceForm.resources
+C:\Users\SzynS\Downloads\TAB_Stacja (2)\TAB_Stacja\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.UserForm.resources
+C:\Users\SzynS\Downloads\TAB_Stacja (2)\TAB_Stacja\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.csproj.GenerateResource.cache
+C:\Users\SzynS\Downloads\TAB_Stacja (2)\TAB_Stacja\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.csproj.CoreCompileInputs.cache
+C:\Users\SzynS\Downloads\TAB_Stacja (2)\TAB_Stacja\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.exe
+C:\Users\SzynS\Downloads\TAB_Stacja (2)\TAB_Stacja\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.pdb
+C:\Users\SzynS\Downloads\TAB_Stacja (2)\TAB_Stacja\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.TimeTicket.resources
+C:\Users\SzynS\Downloads\TAB_Stacja (2)\TAB_Stacja\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.PacketTicket.resources
+E:\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.PacketTicket.resources
+E:\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.TimeTicket.resources
+E:\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.PriceList.resources
+E:\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.AddPriceList.resources
+E:\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.RemovePriceList.resources
+C:\Users\nikod\OneDrive\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\bin\Debug\TAB_Stacja.exe.config
+C:\Users\nikod\OneDrive\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\bin\Debug\TAB_Stacja.exe
+C:\Users\nikod\OneDrive\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\bin\Debug\TAB_Stacja.pdb
+C:\Users\nikod\OneDrive\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\nikod\OneDrive\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\bin\Debug\Google.Protobuf.dll
+C:\Users\nikod\OneDrive\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\nikod\OneDrive\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\nikod\OneDrive\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\nikod\OneDrive\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nikod\OneDrive\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\bin\Debug\MySql.Data.dll
+C:\Users\nikod\OneDrive\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\bin\Debug\System.Buffers.dll
+C:\Users\nikod\OneDrive\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\nikod\OneDrive\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nikod\OneDrive\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\bin\Debug\System.IO.Pipelines.dll
+C:\Users\nikod\OneDrive\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\bin\Debug\System.Memory.dll
+C:\Users\nikod\OneDrive\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nikod\OneDrive\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nikod\OneDrive\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nikod\OneDrive\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\bin\Debug\ZstdSharp.dll
+C:\Users\nikod\OneDrive\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\nikod\OneDrive\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\bin\Debug\Google.Protobuf.pdb
+C:\Users\nikod\OneDrive\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\bin\Debug\Google.Protobuf.xml
+C:\Users\nikod\OneDrive\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\nikod\OneDrive\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\nikod\OneDrive\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\nikod\OneDrive\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nikod\OneDrive\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\bin\Debug\MySql.Data.xml
+C:\Users\nikod\OneDrive\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\bin\Debug\System.Buffers.xml
+C:\Users\nikod\OneDrive\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\nikod\OneDrive\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\bin\Debug\System.IO.Pipelines.xml
+C:\Users\nikod\OneDrive\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\bin\Debug\System.Memory.xml
+C:\Users\nikod\OneDrive\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nikod\OneDrive\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nikod\OneDrive\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nikod\OneDrive\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.csproj.AssemblyReference.cache
+C:\Users\nikod\OneDrive\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.AddPriceList.resources
+C:\Users\nikod\OneDrive\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.AdminForm.resources
+C:\Users\nikod\OneDrive\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.EditUserTickets.resources
+C:\Users\nikod\OneDrive\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.Login.resources
+C:\Users\nikod\OneDrive\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.ManagementForm.resources
+C:\Users\nikod\OneDrive\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.PacketTicket.resources
+C:\Users\nikod\OneDrive\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.PriceList.resources
+C:\Users\nikod\OneDrive\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.Properties.Resources.resources
+C:\Users\nikod\OneDrive\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.Registration.resources
+C:\Users\nikod\OneDrive\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.RemovePriceList.resources
+C:\Users\nikod\OneDrive\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.SellerForm.resources
+C:\Users\nikod\OneDrive\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.ServiceForm.resources
+C:\Users\nikod\OneDrive\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.TimeTicket.resources
+C:\Users\nikod\OneDrive\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.UserForm.resources
+C:\Users\nikod\OneDrive\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.csproj.GenerateResource.cache
+C:\Users\nikod\OneDrive\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.csproj.CoreCompileInputs.cache
+C:\Users\nikod\OneDrive\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.csproj.Up2Date
+C:\Users\nikod\OneDrive\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.exe
+C:\Users\nikod\OneDrive\Pulpit\TAB_Stacja\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.pdb
+E:\Pulpit\TAB_Stacja\TAB_Stacja\bin\Debug\TAB_Stacja.exe.config
+E:\Pulpit\TAB_Stacja\TAB_Stacja\bin\Debug\TAB_Stacja.exe
+E:\Pulpit\TAB_Stacja\TAB_Stacja\bin\Debug\TAB_Stacja.pdb
+E:\Pulpit\TAB_Stacja\TAB_Stacja\bin\Debug\BouncyCastle.Cryptography.dll
+E:\Pulpit\TAB_Stacja\TAB_Stacja\bin\Debug\Google.Protobuf.dll
+E:\Pulpit\TAB_Stacja\TAB_Stacja\bin\Debug\K4os.Compression.LZ4.dll
+E:\Pulpit\TAB_Stacja\TAB_Stacja\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Pulpit\TAB_Stacja\TAB_Stacja\bin\Debug\K4os.Hash.xxHash.dll
+E:\Pulpit\TAB_Stacja\TAB_Stacja\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Pulpit\TAB_Stacja\TAB_Stacja\bin\Debug\MySql.Data.dll
+E:\Pulpit\TAB_Stacja\TAB_Stacja\bin\Debug\System.Buffers.dll
+E:\Pulpit\TAB_Stacja\TAB_Stacja\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\Pulpit\TAB_Stacja\TAB_Stacja\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Pulpit\TAB_Stacja\TAB_Stacja\bin\Debug\System.IO.Pipelines.dll
+E:\Pulpit\TAB_Stacja\TAB_Stacja\bin\Debug\System.Memory.dll
+E:\Pulpit\TAB_Stacja\TAB_Stacja\bin\Debug\System.Numerics.Vectors.dll
+E:\Pulpit\TAB_Stacja\TAB_Stacja\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Pulpit\TAB_Stacja\TAB_Stacja\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Pulpit\TAB_Stacja\TAB_Stacja\bin\Debug\ZstdSharp.dll
+E:\Pulpit\TAB_Stacja\TAB_Stacja\bin\Debug\BouncyCastle.Cryptography.xml
+E:\Pulpit\TAB_Stacja\TAB_Stacja\bin\Debug\Google.Protobuf.pdb
+E:\Pulpit\TAB_Stacja\TAB_Stacja\bin\Debug\Google.Protobuf.xml
+E:\Pulpit\TAB_Stacja\TAB_Stacja\bin\Debug\K4os.Compression.LZ4.xml
+E:\Pulpit\TAB_Stacja\TAB_Stacja\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Pulpit\TAB_Stacja\TAB_Stacja\bin\Debug\K4os.Hash.xxHash.xml
+E:\Pulpit\TAB_Stacja\TAB_Stacja\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Pulpit\TAB_Stacja\TAB_Stacja\bin\Debug\MySql.Data.xml
+E:\Pulpit\TAB_Stacja\TAB_Stacja\bin\Debug\System.Buffers.xml
+E:\Pulpit\TAB_Stacja\TAB_Stacja\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Pulpit\TAB_Stacja\TAB_Stacja\bin\Debug\System.IO.Pipelines.xml
+E:\Pulpit\TAB_Stacja\TAB_Stacja\bin\Debug\System.Memory.xml
+E:\Pulpit\TAB_Stacja\TAB_Stacja\bin\Debug\System.Numerics.Vectors.xml
+E:\Pulpit\TAB_Stacja\TAB_Stacja\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Pulpit\TAB_Stacja\TAB_Stacja\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Pulpit\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.csproj.AssemblyReference.cache
+E:\Pulpit\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.AddPriceList.resources
+E:\Pulpit\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.AdminForm.resources
+E:\Pulpit\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.EditUserTickets.resources
+E:\Pulpit\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.Login.resources
+E:\Pulpit\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.ManagementForm.resources
+E:\Pulpit\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.PacketTicket.resources
+E:\Pulpit\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.PriceList.resources
+E:\Pulpit\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.Properties.Resources.resources
+E:\Pulpit\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.Registration.resources
+E:\Pulpit\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.RemovePriceList.resources
+E:\Pulpit\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.SellerForm.resources
+E:\Pulpit\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.ServiceForm.resources
+E:\Pulpit\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.TimeTicket.resources
+E:\Pulpit\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.UserForm.resources
+E:\Pulpit\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.csproj.GenerateResource.cache
+E:\Pulpit\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.csproj.CoreCompileInputs.cache
+E:\Pulpit\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.csproj.Up2Date
+E:\Pulpit\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.exe
+E:\Pulpit\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.pdb
+E:\Pulpit\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.AddLiftSchedule.resources
+E:\Pulpit\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.ModifyLift.resources
+E:\Pulpit\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.RemoveLiftSchedule.resources

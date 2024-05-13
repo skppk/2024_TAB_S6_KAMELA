@@ -12,6 +12,7 @@ namespace TAB_Stacja
 {
     public partial class UserForm : Form
     {
+        string checkedItemText;
         public UserForm()
         {
            //jesli sa aktywne bilety to dodaj do label1
@@ -46,7 +47,46 @@ namespace TAB_Stacja
 
         private void checkedListBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
+            int index = checkedListBox1.SelectedIndex;
 
+            for (int x = 0; x < 2; x++)
+            {
+                if (index != x)
+                {
+                    checkedListBox1.SetItemChecked(x, false);
+                }
+                else
+                {
+                    checkedListBox1.SetItemChecked(x, true);
+                }
+            }
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            foreach (var item in checkedListBox1.CheckedItems)
+            {
+                checkedItemText = item.ToString();
+
+                if (checkedItemText == "Czasowy")
+                {
+                    new TimeTicket().Show();
+                    this.Hide();
+                }
+                if (checkedItemText == "Pakietowy")
+                {
+                    new PacketTicket().Show();
+                    this.Hide();
+                }
+
+
+            }
+
+            if (checkedListBox1.CheckedItems.Count == 0)
+            {
+                MessageBox.Show("Proszę zaznaczyć co jedną opcję aby przejść dalej.");
+            }
         }
     }
 }
