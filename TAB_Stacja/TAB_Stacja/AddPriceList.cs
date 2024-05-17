@@ -60,30 +60,37 @@ namespace TAB_Stacja
         private void button1_Click_1(object sender, EventArgs e)
         {
             int id = 0;
-            int time1 = 0, time2 = 0, time3 = 0, time4 = 0;
-            int pak1 = 0, pak2 = 0, pak3 = 0, pak4 = 0;
+            float time1 = 0.00f, time2 = 0.00f, time3 = 0.00f, time4 = 0.00f, time5 = 0.00f, time6 = 0.00f, time7 = 0.00f;
+            float pak1 = 0.00f, pak2 = 0.00f, pak3 = 0.00f, pak4 = 0.00f, pak5 = 0.00f, pak6 = 0.00f, pak7 = 0.00f;
 
             // Walidacja ID
-            if (!int.TryParse(textBox1.Text, out id))
+            /*if (!int.TryParse(textBox1.Text, out id))
             {
                 MessageBox.Show("Proszę wprowadzić poprawne ID cennika.");
                 return;
-            }
+            }*/
 
             // Walidacja biletów czasowych
-            if (!int.TryParse(textBox2.Text, out time1) ||
-                !int.TryParse(textBox4.Text, out time2) ||
-                !int.TryParse(textBox5.Text, out time3) ||
-                !int.TryParse(textBox6.Text, out time4))
+            if (!float.TryParse(textBox2.Text, out time1) ||
+                !float.TryParse(textBox4.Text, out time2) ||
+                !float.TryParse(textBox5.Text, out time3) ||
+                !float.TryParse(textBox6.Text, out time4) ||
+                !float.TryParse(textBox13.Text, out time5) ||
+                !float.TryParse(textBox12.Text, out time6) ||
+                !float.TryParse(textBox11.Text, out time7))
             {
                 MessageBox.Show("Proszę wprowadzić poprawne ceny biletów czasowych.");
+                return;
             }
 
             // Walidacja biletów pakietowych
-            if (!int.TryParse(textBox10.Text, out pak1) ||
-                !int.TryParse(textBox9.Text, out pak2) ||
-                !int.TryParse(textBox8.Text, out pak3) ||
-                !int.TryParse(textBox7.Text, out pak4))
+            if (!float.TryParse(textBox10.Text, out pak1) ||
+                !float.TryParse(textBox9.Text, out pak2) ||
+                !float.TryParse(textBox8.Text, out pak3) ||
+                !float.TryParse(textBox7.Text, out pak4) ||
+                !float.TryParse(textBox16.Text, out pak5) ||
+                !float.TryParse(textBox15.Text, out pak6) ||
+                !float.TryParse(textBox14.Text, out pak7))
             {
                 MessageBox.Show("Proszę wprowadzić poprawne ceny biletów pakietowych.");
                 return;
@@ -95,19 +102,30 @@ namespace TAB_Stacja
             // Zabezpieczenie przed pustymi wartościami dla dnia tygodnia
             if (string.IsNullOrEmpty(dayofweek))
             {
-                MessageBox.Show("Proszę wprowadzić poprawny dzień tygodnia.");
-                return;
+                dayofweek = "all";
             }
 
             try
             {
-                string cennikquery = "INSERT INTO Cennik(id_cennika, data_obowiazywania, dzien_tygodnia) VALUES (" + id + ", '" + date.ToString("yyyy-MM-dd") + "', '" + dayofweek + "');";
+                string cennikquery = "INSERT INTO Cennik(data_obowiazywania, dzien_tygodnia) VALUES ('" + date.ToString("yyyy-MM-dd") + "', '" + dayofweek + "');";
                 DatabaseConnector database = new DatabaseConnector();
                 database.exNonQuery(cennikquery);
+                string query2 = "SELECT MAX(id_cennika) FROM Cennik;";
+                database.getCon().Open();
+                MySqlCommand command2 = new MySqlCommand(query2, database.getCon());
+                MySqlDataReader reader2 = command2.ExecuteReader();
+                if (reader2.HasRows)
+                {
+                    while (reader2.Read())
+                    {
+                        id = reader2.GetInt32(0);
+                    }
+                    reader2.Close();
+                }
+                database.getCon().Close();
 
-
-                string cennikczas = "INSERT INTO Cennikczasowy(dlugosc_obowiazywania, cena, id_c) VALUES ('1h', " + time1 + ", " + id + "), ('2h', " + time2 + ", " + id + "), ('3h', " + time3 + ", " + id + "), ('5h', " + time4 + ", " + id + ");";
-                string cennikpak = "INSERT INTO Cennikpakietowy(ilosc_przejazdow, cena, id_c) VALUES (2, " + pak1 + ", " + id + "), (5, " + pak2 + ", " + id + "), (10, " + pak3 + ", " + id + "), (20, " + pak4 + ", " + id + ");";
+                string cennikczas = "INSERT INTO Cennikczasowy(dlugosc_obowiazywania, cena, id_c) VALUES ('1h', " + time1 + ", " + id + "), ('2h', " + time2 + ", " + id + "), ('3h', " + time3 + ", " + id + "), ('6h', " + time4 + ", " + id + "), ('1d', " + time5 + ", " + id + "), ('3d', " + time6 + ", " + id + "), ('1t', " + time7 + ", " + id + ");";
+                string cennikpak = "INSERT INTO Cennikpakietowy(ilosc_przejazdow, cena, id_c) VALUES (5, " + pak1 + ", " + id + "), (10, " + pak2 + ", " + id + "), (15, " + pak3 + ", " + id + "), (20, " + pak4 + ", " + id + "), (30, " + pak5 + ", " + id + "), (50, " + pak6 + ", " + id + "), (100, " + pak7 + ", " + id + ");";
 
                 database.exNonQuery(cennikczas);
                 database.exNonQuery(cennikpak);
@@ -116,6 +134,7 @@ namespace TAB_Stacja
             catch (MySqlException ex)
             {
                 MessageBox.Show("Błąd dodawania cennika!");
+                MessageBox.Show(ex.Message);
             }
         }
 

@@ -38,8 +38,6 @@ namespace TAB_Stacja
         private void button1_Click(object sender, EventArgs e)
         {
             int id = 0;
-            int time1 = 0, time2 = 0, time3 = 0, time4 = 0;
-            int pak1 = 0, pak2 = 0, pak3 = 0, pak4 = 0;
 
             // Walidacja ID
             if (!int.TryParse(textBox1.Text, out id))
@@ -56,8 +54,7 @@ namespace TAB_Stacja
             // Zabezpieczenie przed pustymi wartościami dla dnia tygodnia
             if (string.IsNullOrEmpty(dayofweek))
             {
-                MessageBox.Show("Proszę wprowadzić poprawny dzień tygodnia.");
-                return;
+                dayofweek = "all";
             }
 
             try
@@ -71,6 +68,11 @@ namespace TAB_Stacja
             {
                 MessageBox.Show("Błąd dodawania rozkładu!");
             }
+        }
+
+        private void AddLiftSchedule_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

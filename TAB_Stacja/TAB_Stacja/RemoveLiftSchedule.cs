@@ -53,5 +53,10 @@ namespace TAB_Stacja
         {
             Application.Exit();
         }
+
+        private void RemoveLiftSchedule_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

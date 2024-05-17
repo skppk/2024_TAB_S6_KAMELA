@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "E:\\Pulpit\\TAB_Stacja\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|e:\\pulpit\\tab_stacja\\tab_stacja\\timeticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|solutionrelative:tab_stacja\\timeticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|E:\\Pulpit\\TAB_Stacja\\tab_stacja\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|solutionrelative:tab_stacja\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|E:\\Pulpit\\TAB_Stacja\\tab_stacja\\timeticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|solutionrelative:tab_stacja\\timeticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|E:\\Pulpit\\TAB_Stacja\\tab_stacja\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|solutionrelative:tab_stacja\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|e:\\pulpit\\tab_stacja\\tab_stacja\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|solutionrelative:tab_stacja\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|E:\\Pulpit\\TAB_Stacja\\tab_stacja\\removeliftschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|solutionrelative:tab_stacja\\removeliftschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|E:\\Pulpit\\TAB_Stacja\\tab_stacja\\removeliftschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|solutionrelative:tab_stacja\\removeliftschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|E:\\Pulpit\\TAB_Stacja\\tab_stacja\\addliftschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|solutionrelative:tab_stacja\\addliftschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|E:\\Pulpit\\TAB_Stacja\\tab_stacja\\addliftschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|solutionrelative:tab_stacja\\addliftschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|E:\\Pulpit\\TAB_Stacja\\tab_stacja\\addpricelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|solutionrelative:tab_stacja\\addpricelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|E:\\Pulpit\\TAB_Stacja\\tab_stacja\\packetticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,32 +43,28 @@
       "RelativeMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|solutionrelative:tab_stacja\\packetticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|E:\\Pulpit\\TAB_Stacja\\tab_stacja\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|solutionrelative:tab_stacja\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|E:\\Pulpit\\TAB_Stacja\\tab_stacja\\timeticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|solutionrelative:tab_stacja\\timeticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|E:\\Pulpit\\TAB_Stacja\\tab_stacja\\addliftschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|solutionrelative:tab_stacja\\addliftschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|E:\\Pulpit\\TAB_Stacja\\tab_stacja\\removeliftschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|solutionrelative:tab_stacja\\removeliftschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|E:\\Pulpit\\TAB_Stacja\\tab_stacja\\addpricelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|solutionrelative:tab_stacja\\addpricelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|E:\\Pulpit\\TAB_Stacja\\tab_stacja\\removeliftschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|solutionrelative:tab_stacja\\removeliftschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|E:\\Pulpit\\TAB_Stacja\\tab_stacja\\addliftschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|solutionrelative:tab_stacja\\addliftschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|E:\\Pulpit\\TAB_Stacja\\tab_stacja\\timeticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|solutionrelative:tab_stacja\\timeticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|E:\\Pulpit\\TAB_Stacja\\tab_stacja\\addpricelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|solutionrelative:tab_stacja\\addpricelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|E:\\Pulpit\\TAB_Stacja\\tab_stacja\\pricelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|solutionrelative:tab_stacja\\pricelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|E:\\Pulpit\\TAB_Stacja\\tab_stacja\\databaseconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|solutionrelative:tab_stacja\\databaseconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|E:\\Pulpit\\TAB_Stacja\\tab_stacja\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|solutionrelative:tab_stacja\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|E:\\Pulpit\\TAB_Stacja\\tab_stacja\\modifylift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,20 +75,12 @@
       "RelativeMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|solutionrelative:tab_stacja\\modifylift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|E:\\Pulpit\\TAB_Stacja\\tab_stacja\\databaseconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|solutionrelative:tab_stacja\\databaseconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|E:\\Pulpit\\TAB_Stacja\\tab_stacja\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|solutionrelative:tab_stacja\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|E:\\Pulpit\\TAB_Stacja\\tab_stacja\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|solutionrelative:tab_stacja\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|E:\\Pulpit\\TAB_Stacja\\tab_stacja\\pricelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|solutionrelative:tab_stacja\\pricelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1A32708F-27B0-4E2D-87AA-8565186A4AFE}|TAB_Stacja\\TAB_Stacja.csproj|E:\\Pulpit\\TAB_Stacja\\tab_stacja\\sellerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -94,78 +106,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserForm.cs [Projekt]",
-              "DocumentMoniker": "E:\\Pulpit\\TAB_Stacja\\TAB_Stacja\\UserForm.cs",
-              "RelativeDocumentMoniker": "TAB_Stacja\\UserForm.cs",
-              "ToolTip": "E:\\Pulpit\\TAB_Stacja\\TAB_Stacja\\UserForm.cs [Projekt]",
-              "RelativeToolTip": "TAB_Stacja\\UserForm.cs [Projekt]",
+              "DocumentIndex": 2,
+              "Title": "Login.cs [Projekt]",
+              "DocumentMoniker": "E:\\Pulpit\\TAB_Stacja\\TAB_Stacja\\Login.cs",
+              "RelativeDocumentMoniker": "TAB_Stacja\\Login.cs",
+              "ToolTip": "E:\\Pulpit\\TAB_Stacja\\TAB_Stacja\\Login.cs [Projekt]",
+              "RelativeToolTip": "TAB_Stacja\\Login.cs [Projekt]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T15:13:04.036Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AddLiftSchedule.cs",
-              "DocumentMoniker": "E:\\Pulpit\\TAB_Stacja\\TAB_Stacja\\AddLiftSchedule.cs",
-              "RelativeDocumentMoniker": "TAB_Stacja\\AddLiftSchedule.cs",
-              "ToolTip": "E:\\Pulpit\\TAB_Stacja\\TAB_Stacja\\AddLiftSchedule.cs",
-              "RelativeToolTip": "TAB_Stacja\\AddLiftSchedule.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAvwEAAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T14:27:44.029Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PacketTicket.cs [Projekt]",
-              "DocumentMoniker": "E:\\Pulpit\\TAB_Stacja\\TAB_Stacja\\PacketTicket.cs",
-              "RelativeDocumentMoniker": "TAB_Stacja\\PacketTicket.cs",
-              "ToolTip": "E:\\Pulpit\\TAB_Stacja\\TAB_Stacja\\PacketTicket.cs [Projekt]",
-              "RelativeToolTip": "TAB_Stacja\\PacketTicket.cs [Projekt]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T14:48:42.252Z"
+              "WhenOpened": "2024-05-14T13:10:21.376Z",
+              "EditorCaption": " [Projekt]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "TimeTicket.cs [Design]",
-              "DocumentMoniker": "E:\\Pulpit\\TAB_Stacja\\TAB_Stacja\\TimeTicket.cs",
-              "RelativeDocumentMoniker": "TAB_Stacja\\TimeTicket.cs",
-              "ToolTip": "E:\\Pulpit\\TAB_Stacja\\TAB_Stacja\\TimeTicket.cs [Design]",
-              "RelativeToolTip": "TAB_Stacja\\TimeTicket.cs [Design]",
+              "Title": "UserForm.cs",
+              "DocumentMoniker": "E:\\Pulpit\\TAB_Stacja\\TAB_Stacja\\UserForm.cs",
+              "RelativeDocumentMoniker": "TAB_Stacja\\UserForm.cs",
+              "ToolTip": "E:\\Pulpit\\TAB_Stacja\\TAB_Stacja\\UserForm.cs",
+              "RelativeToolTip": "TAB_Stacja\\UserForm.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCIAAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T14:02:12.026Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TimeTicket.cs",
-              "DocumentMoniker": "E:\\Pulpit\\TAB_Stacja\\TAB_Stacja\\TimeTicket.cs",
-              "RelativeDocumentMoniker": "TAB_Stacja\\TimeTicket.cs",
-              "ToolTip": "E:\\Pulpit\\TAB_Stacja\\TAB_Stacja\\TimeTicket.cs",
-              "RelativeToolTip": "TAB_Stacja\\TimeTicket.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAqwCYAAACkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T14:02:28.613Z",
+              "WhenOpened": "2024-05-14T07:43:22.141Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PacketTicket.cs",
-              "DocumentMoniker": "E:\\Pulpit\\TAB_Stacja\\TAB_Stacja\\PacketTicket.cs",
-              "RelativeDocumentMoniker": "TAB_Stacja\\PacketTicket.cs",
-              "ToolTip": "E:\\Pulpit\\TAB_Stacja\\TAB_Stacja\\PacketTicket.cs",
-              "RelativeToolTip": "TAB_Stacja\\PacketTicket.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAvwC4AAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T14:48:54.212Z"
             },
             {
               "$type": "Document",
@@ -180,7 +146,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
+              "Title": "TimeTicket.cs",
+              "DocumentMoniker": "E:\\Pulpit\\TAB_Stacja\\TAB_Stacja\\TimeTicket.cs",
+              "RelativeDocumentMoniker": "TAB_Stacja\\TimeTicket.cs",
+              "ToolTip": "E:\\Pulpit\\TAB_Stacja\\TAB_Stacja\\TimeTicket.cs",
+              "RelativeToolTip": "TAB_Stacja\\TimeTicket.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAswE4AAACRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:02:28.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PacketTicket.cs",
+              "DocumentMoniker": "E:\\Pulpit\\TAB_Stacja\\TAB_Stacja\\PacketTicket.cs",
+              "RelativeDocumentMoniker": "TAB_Stacja\\PacketTicket.cs",
+              "ToolTip": "E:\\Pulpit\\TAB_Stacja\\TAB_Stacja\\PacketTicket.cs",
+              "RelativeToolTip": "TAB_Stacja\\PacketTicket.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAowE4AAACTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T12:10:36.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserForm.cs [Projekt]",
+              "DocumentMoniker": "E:\\Pulpit\\TAB_Stacja\\TAB_Stacja\\UserForm.cs",
+              "RelativeDocumentMoniker": "TAB_Stacja\\UserForm.cs",
+              "ToolTip": "E:\\Pulpit\\TAB_Stacja\\TAB_Stacja\\UserForm.cs [Projekt]",
+              "RelativeToolTip": "TAB_Stacja\\UserForm.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:13:04.036Z",
+              "EditorCaption": " [Projekt]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RemoveLiftSchedule.cs",
+              "DocumentMoniker": "E:\\Pulpit\\TAB_Stacja\\TAB_Stacja\\RemoveLiftSchedule.cs",
+              "RelativeDocumentMoniker": "TAB_Stacja\\RemoveLiftSchedule.cs",
+              "ToolTip": "E:\\Pulpit\\TAB_Stacja\\TAB_Stacja\\RemoveLiftSchedule.cs",
+              "RelativeToolTip": "TAB_Stacja\\RemoveLiftSchedule.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAUwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T12:23:24.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "RemoveLiftSchedule.cs [Projekt]",
               "DocumentMoniker": "E:\\Pulpit\\TAB_Stacja\\TAB_Stacja\\RemoveLiftSchedule.cs",
               "RelativeDocumentMoniker": "TAB_Stacja\\RemoveLiftSchedule.cs",
@@ -191,19 +205,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "RemoveLiftSchedule.cs",
-              "DocumentMoniker": "E:\\Pulpit\\TAB_Stacja\\TAB_Stacja\\RemoveLiftSchedule.cs",
-              "RelativeDocumentMoniker": "TAB_Stacja\\RemoveLiftSchedule.cs",
-              "ToolTip": "E:\\Pulpit\\TAB_Stacja\\TAB_Stacja\\RemoveLiftSchedule.cs",
-              "RelativeToolTip": "TAB_Stacja\\RemoveLiftSchedule.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAArwCQAAAAkAAAA",
+              "DocumentIndex": 5,
+              "Title": "AddLiftSchedule.cs",
+              "DocumentMoniker": "E:\\Pulpit\\TAB_Stacja\\TAB_Stacja\\AddLiftSchedule.cs",
+              "RelativeDocumentMoniker": "TAB_Stacja\\AddLiftSchedule.cs",
+              "ToolTip": "E:\\Pulpit\\TAB_Stacja\\TAB_Stacja\\AddLiftSchedule.cs",
+              "RelativeToolTip": "TAB_Stacja\\AddLiftSchedule.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAcwDgAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T14:43:43.384Z"
+              "WhenOpened": "2024-05-14T12:22:52.514Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
+              "Title": "AddPriceList.cs",
+              "DocumentMoniker": "E:\\Pulpit\\TAB_Stacja\\TAB_Stacja\\AddPriceList.cs",
+              "RelativeDocumentMoniker": "TAB_Stacja\\AddPriceList.cs",
+              "ToolTip": "E:\\Pulpit\\TAB_Stacja\\TAB_Stacja\\AddPriceList.cs",
+              "RelativeToolTip": "TAB_Stacja\\AddPriceList.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAUwHoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T09:36:17.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "AddLiftSchedule.cs [Projekt]",
               "DocumentMoniker": "E:\\Pulpit\\TAB_Stacja\\TAB_Stacja\\AddLiftSchedule.cs",
               "RelativeDocumentMoniker": "TAB_Stacja\\AddLiftSchedule.cs",
@@ -214,19 +240,65 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AddPriceList.cs",
-              "DocumentMoniker": "E:\\Pulpit\\TAB_Stacja\\TAB_Stacja\\AddPriceList.cs",
-              "RelativeDocumentMoniker": "TAB_Stacja\\AddPriceList.cs",
-              "ToolTip": "E:\\Pulpit\\TAB_Stacja\\TAB_Stacja\\AddPriceList.cs",
-              "RelativeToolTip": "TAB_Stacja\\AddPriceList.cs",
-              "ViewState": "AQIAAF4AAAAAAAAAAAAvwHYAAAANAAAA",
+              "DocumentIndex": 9,
+              "Title": "PacketTicket.cs [Projekt]",
+              "DocumentMoniker": "E:\\Pulpit\\TAB_Stacja\\TAB_Stacja\\PacketTicket.cs",
+              "RelativeDocumentMoniker": "TAB_Stacja\\PacketTicket.cs",
+              "ToolTip": "E:\\Pulpit\\TAB_Stacja\\TAB_Stacja\\PacketTicket.cs [Projekt]",
+              "RelativeToolTip": "TAB_Stacja\\PacketTicket.cs [Projekt]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T09:36:17.851Z"
+              "WhenOpened": "2024-05-14T12:10:35.31Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
+              "Title": "TimeTicket.cs [Projekt]",
+              "DocumentMoniker": "E:\\Pulpit\\TAB_Stacja\\TAB_Stacja\\TimeTicket.cs",
+              "RelativeDocumentMoniker": "TAB_Stacja\\TimeTicket.cs",
+              "ToolTip": "E:\\Pulpit\\TAB_Stacja\\TAB_Stacja\\TimeTicket.cs [Projekt]",
+              "RelativeToolTip": "TAB_Stacja\\TimeTicket.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:02:12.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\Pulpit\\TAB_Stacja\\TAB_Stacja\\App.config",
+              "RelativeDocumentMoniker": "TAB_Stacja\\App.config",
+              "ToolTip": "E:\\Pulpit\\TAB_Stacja\\TAB_Stacja\\App.config",
+              "RelativeToolTip": "TAB_Stacja\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-13T20:28:38.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DatabaseConnector.cs",
+              "DocumentMoniker": "E:\\Pulpit\\TAB_Stacja\\TAB_Stacja\\DatabaseConnector.cs",
+              "RelativeDocumentMoniker": "TAB_Stacja\\DatabaseConnector.cs",
+              "ToolTip": "E:\\Pulpit\\TAB_Stacja\\TAB_Stacja\\DatabaseConnector.cs",
+              "RelativeToolTip": "TAB_Stacja\\DatabaseConnector.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T13:08:56.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PriceList.cs [Projekt]",
+              "DocumentMoniker": "E:\\Pulpit\\TAB_Stacja\\TAB_Stacja\\PriceList.cs",
+              "RelativeDocumentMoniker": "TAB_Stacja\\PriceList.cs",
+              "ToolTip": "E:\\Pulpit\\TAB_Stacja\\TAB_Stacja\\PriceList.cs [Projekt]",
+              "RelativeToolTip": "TAB_Stacja\\PriceList.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:14:12.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "ModifyLift.cs [Projekt]",
               "DocumentMoniker": "E:\\Pulpit\\TAB_Stacja\\TAB_Stacja\\ModifyLift.cs",
               "RelativeDocumentMoniker": "TAB_Stacja\\ModifyLift.cs",
@@ -237,7 +309,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "ModifyLift.cs",
               "DocumentMoniker": "E:\\Pulpit\\TAB_Stacja\\TAB_Stacja\\ModifyLift.cs",
               "RelativeDocumentMoniker": "TAB_Stacja\\ModifyLift.cs",
@@ -249,30 +321,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "DatabaseConnector.cs",
-              "DocumentMoniker": "E:\\Pulpit\\TAB_Stacja\\TAB_Stacja\\DatabaseConnector.cs",
-              "RelativeDocumentMoniker": "TAB_Stacja\\DatabaseConnector.cs",
-              "ToolTip": "E:\\Pulpit\\TAB_Stacja\\TAB_Stacja\\DatabaseConnector.cs",
-              "RelativeToolTip": "TAB_Stacja\\DatabaseConnector.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAuwD0AAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T13:08:56.131Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "PriceList.cs [Projekt]",
-              "DocumentMoniker": "E:\\Pulpit\\TAB_Stacja\\TAB_Stacja\\PriceList.cs",
-              "RelativeDocumentMoniker": "TAB_Stacja\\PriceList.cs",
-              "ToolTip": "E:\\Pulpit\\TAB_Stacja\\TAB_Stacja\\PriceList.cs [Projekt]",
-              "RelativeToolTip": "TAB_Stacja\\PriceList.cs [Projekt]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T14:14:12.117Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "AdminForm.cs",
               "DocumentMoniker": "E:\\Pulpit\\TAB_Stacja\\TAB_Stacja\\AdminForm.cs",
               "RelativeDocumentMoniker": "TAB_Stacja\\AdminForm.cs",
@@ -284,7 +333,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "AdminForm.cs [Projekt]",
               "DocumentMoniker": "E:\\Pulpit\\TAB_Stacja\\TAB_Stacja\\AdminForm.cs",
               "RelativeDocumentMoniker": "TAB_Stacja\\AdminForm.cs",
@@ -295,7 +344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "SellerForm.cs [Projekt]",
               "DocumentMoniker": "E:\\Pulpit\\TAB_Stacja\\TAB_Stacja\\SellerForm.cs",
               "RelativeDocumentMoniker": "TAB_Stacja\\SellerForm.cs",
@@ -306,7 +355,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "RemovePriceList.cs",
               "DocumentMoniker": "E:\\Pulpit\\TAB_Stacja\\TAB_Stacja\\RemovePriceList.cs",
               "RelativeDocumentMoniker": "TAB_Stacja\\RemovePriceList.cs",
@@ -318,7 +367,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "RemovePriceList.cs [Design]",
               "DocumentMoniker": "E:\\Pulpit\\TAB_Stacja\\TAB_Stacja\\RemovePriceList.cs",
               "RelativeDocumentMoniker": "TAB_Stacja\\RemovePriceList.cs",
@@ -328,7 +377,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Pulpit\\TAB_Stacja\\TAB_Stacja\\Program.cs",
               "RelativeDocumentMoniker": "TAB_Stacja\\Program.cs",

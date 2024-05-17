@@ -189,6 +189,7 @@
             this.Controls.Add(this.dateTimePicker1);
             this.Name = "AddLiftSchedule";
             this.Text = "AddLiftSchedule";
+            this.Load += new System.EventHandler(this.AddLiftSchedule_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

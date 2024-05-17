@@ -48,9 +48,9 @@
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(51, 40);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(75, 16);
+            this.label2.Size = new System.Drawing.Size(77, 16);
             this.label2.TabIndex = 25;
-            this.label2.Text = "ID wyciągu:";
+            this.label2.Text = "ID rozkladu:";
             // 
             // button2
             // 
@@ -97,6 +97,7 @@
             this.Controls.Add(this.textBox1);
             this.Name = "RemoveLiftSchedule";
             this.Text = "RemoveLiftSchedule";
+            this.Load += new System.EventHandler(this.RemoveLiftSchedule_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

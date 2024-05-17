@@ -15,8 +15,13 @@ namespace TAB_Stacja
         private static MySqlConnection con;
         public DatabaseConnector()
         {
-            connstring = "server=localhost;uid=root;pwd=root;database=mydb";
+            connstring = "server=localhost;uid=root;pwd=sksfd;database=mydb";
             con = new MySqlConnection(connstring);
+        }
+
+        public MySqlConnection getCon()
+        {
+            return con;
         }
         public void showTable()
         {

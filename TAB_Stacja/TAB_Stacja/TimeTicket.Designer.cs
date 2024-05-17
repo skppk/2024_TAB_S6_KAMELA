@@ -34,6 +34,7 @@
             this.button2 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
             this.price = new System.Windows.Forms.Label();
+            this.checkBox1 = new System.Windows.Forms.CheckBox();
             this.SuspendLayout();
             // 
             // checkedListBox1
@@ -106,11 +107,23 @@
             this.price.Size = new System.Drawing.Size(0, 16);
             this.price.TabIndex = 7;
             // 
+            // checkBox1
+            // 
+            this.checkBox1.AutoSize = true;
+            this.checkBox1.Location = new System.Drawing.Point(18, 145);
+            this.checkBox1.Name = "checkBox1";
+            this.checkBox1.Size = new System.Drawing.Size(71, 20);
+            this.checkBox1.TabIndex = 14;
+            this.checkBox1.Text = "ulgowy";
+            this.checkBox1.UseVisualStyleBackColor = true;
+            this.checkBox1.CheckedChanged += new System.EventHandler(this.checkBox1_CheckedChanged);
+            // 
             // TimeTicket
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(285, 230);
+            this.Controls.Add(this.checkBox1);
             this.Controls.Add(this.price);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
@@ -134,5 +147,6 @@
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Label price;
+        private System.Windows.Forms.CheckBox checkBox1;
     }
 }
