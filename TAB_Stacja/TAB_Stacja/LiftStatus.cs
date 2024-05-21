@@ -46,6 +46,9 @@ namespace TAB_Stacja
                 {
                     column.AutoSizeMode = DataGridViewAutoSizeColumnMode.AllCells;
                 }
+
+
+            
             }
             catch (Exception ex)
             {
@@ -92,6 +95,23 @@ namespace TAB_Stacja
         private void LiftStatus_Load(object sender, EventArgs e)
         {
 
+        }
+
+        private void dataGridView1_CellFormatting(object sender, DataGridViewCellFormattingEventArgs e)
+        {
+            if(e.ColumnIndex == 2 && e.Value != null)
+            {
+                int v = Convert.ToInt32(e.Value); 
+                if(v == 0)
+                {
+                    e.CellStyle.BackColor = Color.Red; 
+
+                }
+                else
+                {
+                    e.CellStyle.BackColor = Color.Green; 
+                }
+            }
         }
     }
 }
