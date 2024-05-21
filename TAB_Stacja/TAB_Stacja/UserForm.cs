@@ -31,8 +31,8 @@ namespace TAB_Stacja
             try
             {  
                 database.getCon().Open();
-                string query = "SELECT rodzaj_biletu as RODZAJ, data_zakupu as DATA, data_konca as WYGASA FROM Bilety INNER JOIN Biletyczasowe ON Bilety.id_biletu=Biletyczasowe.id_biletu UNION " +
-                    "SELECT rodzaj_biletu as RODZAJ, data_zakupu as DATA_ZAKUPU, ilość_przejazdow as WYGASA FROM Bilety INNER JOIN Biletypakietowe ON Bilety.id_biletu=Biletypakietowe.id_biletu"; 
+                string query = "SELECT Bilety.id_biletu, rodzaj_biletu as RODZAJ, data_zakupu as DATA, data_konca as WYGASA FROM Bilety INNER JOIN Biletyczasowe ON Bilety.id_biletu=Biletyczasowe.id_biletu UNION " +
+                    "SELECT Bilety.id_biletu, rodzaj_biletu as RODZAJ, data_zakupu as DATA_ZAKUPU, ilość_przejazdow as WYGASA FROM Bilety INNER JOIN Biletypakietowe ON Bilety.id_biletu=Biletypakietowe.id_biletu"; 
                 dataAdapter = new MySqlDataAdapter(query, database.getCon());
                 dataTable = new DataTable();
                 dataAdapter.Fill(dataTable);
@@ -111,12 +111,12 @@ namespace TAB_Stacja
 
                 if (checkedItemText == "Czasowy")
                 {
-                    new TimeTicket().Show();
+                    new TimeTicket(0).Show();
                     this.Hide();
                 }
                 if (checkedItemText == "Pakietowy")
                 {
-                    new PacketTicket().Show();
+                    new PacketTicket(0).Show();
                     this.Hide();
                 }
 
@@ -127,6 +127,17 @@ namespace TAB_Stacja
             {
                 MessageBox.Show("Proszę zaznaczyć co jedną opcję aby przejść dalej.");
             }
+        }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            new LiftStatus(0).Show();
+            this.Hide();
         }
     }
 }

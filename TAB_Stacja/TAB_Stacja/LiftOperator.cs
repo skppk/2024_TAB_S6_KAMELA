@@ -10,39 +10,34 @@ using System.Windows.Forms;
 
 namespace TAB_Stacja
 {
-    public partial class SellerForm : Form
+    public partial class LiftOperator : Form
     {
-        public SellerForm()
+        public LiftOperator()
         {
             InitializeComponent();
         }
 
-        private void exit_button_Click(object sender, EventArgs e)
+        private void button3_Click(object sender, EventArgs e)
         {
-            Application.Exit();
-        }
-
-        private void back_button_Click(object sender, EventArgs e)
-        {
-            new Login().Show();
+            new ChangeLiftStatus().Show();
             this.Close();
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-
+            new Login().Show();
+            this.Close();
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            new TimeTicket(1).Show();
-            this.Hide();
+            Application.Exit();
         }
 
-        private void button3_Click(object sender, EventArgs e)
+        private void button4_Click(object sender, EventArgs e)
         {
-            new PacketTicket(1).Show();
-            this.Hide();
+            new LiftStatus(1).Show();    
+            this.Close();
         }
     }
 }

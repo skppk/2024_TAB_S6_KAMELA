@@ -14,11 +14,12 @@ namespace TAB_Stacja
 {
     public partial class TimeTicket : Form
     {
+        int where;
         int choosen = 0;
         int priceListID = -1;
         float multiplier = 1.0f;
         float[] prices = { 20.00f, 35.00f, 50.00f, 90.00f, 120.00f, 300.00f, 650.00f };
-        public TimeTicket()
+        public TimeTicket(int where)
         {
             InitializeComponent();
             try
@@ -62,6 +63,8 @@ namespace TAB_Stacja
             {
                 MessageBox.Show("Błąd połączenia z bazą danych");
             }
+
+            this.where = where;
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -151,8 +154,16 @@ namespace TAB_Stacja
 
         private void button2_Click(object sender, EventArgs e)
         {
-            new UserForm().Show();
-            this.Close();
+            if (where == 0)
+            {
+                new UserForm().Show();
+                this.Close();
+            }
+            else
+            {
+                new SellerForm().Show();
+                this.Close();
+            }
         }
 
         private void button3_Click(object sender, EventArgs e)

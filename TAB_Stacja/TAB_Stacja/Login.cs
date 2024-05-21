@@ -95,6 +95,11 @@ namespace TAB_Stacja
                 new ManagementForm().Show();
                 this.Hide();
             }
+            else if (password_txt.Text == "lifter" && login_txt.Text == "lifter")
+            {
+                new LiftOperator().Show();
+                this.Hide();
+            }
             else
             {
                 MessageBox.Show("Niepoprawne hasło.");
