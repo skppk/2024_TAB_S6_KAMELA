@@ -139,5 +139,11 @@ namespace TAB_Stacja
             new LiftStatus(0).Show();
             this.Hide();
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            new TicketGate().Show();
+            this.Hide();
+        }
     }
 }

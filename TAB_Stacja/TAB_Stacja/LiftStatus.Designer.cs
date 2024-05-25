@@ -37,22 +37,23 @@
             // dataGridView1
             // 
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(37, 31);
-            this.dataGridView1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.dataGridView1.Location = new System.Drawing.Point(49, 38);
+            this.dataGridView1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.ReadOnly = true;
             this.dataGridView1.RowHeadersWidth = 51;
             this.dataGridView1.RowTemplate.Height = 24;
-            this.dataGridView1.Size = new System.Drawing.Size(242, 246);
+            this.dataGridView1.Size = new System.Drawing.Size(605, 303);
             this.dataGridView1.TabIndex = 9;
             this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
             this.dataGridView1.CellFormatting += new System.Windows.Forms.DataGridViewCellFormattingEventHandler(this.dataGridView1_CellFormatting);
             // 
             // back_button
             // 
-            this.back_button.Location = new System.Drawing.Point(155, 318);
+            this.back_button.Location = new System.Drawing.Point(465, 392);
+            this.back_button.Margin = new System.Windows.Forms.Padding(4);
             this.back_button.Name = "back_button";
-            this.back_button.Size = new System.Drawing.Size(75, 23);
+            this.back_button.Size = new System.Drawing.Size(100, 28);
             this.back_button.TabIndex = 10;
             this.back_button.Text = "WRÓĆ";
             this.back_button.UseVisualStyleBackColor = true;
@@ -60,9 +61,10 @@
             // 
             // exit_button
             // 
-            this.exit_button.Location = new System.Drawing.Point(236, 318);
+            this.exit_button.Location = new System.Drawing.Point(573, 392);
+            this.exit_button.Margin = new System.Windows.Forms.Padding(4);
             this.exit_button.Name = "exit_button";
-            this.exit_button.Size = new System.Drawing.Size(75, 23);
+            this.exit_button.Size = new System.Drawing.Size(100, 28);
             this.exit_button.TabIndex = 11;
             this.exit_button.Text = "WYJDŹ";
             this.exit_button.UseVisualStyleBackColor = true;
@@ -70,12 +72,13 @@
             // 
             // LiftStatus
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(321, 352);
+            this.ClientSize = new System.Drawing.Size(686, 433);
             this.Controls.Add(this.exit_button);
             this.Controls.Add(this.back_button);
             this.Controls.Add(this.dataGridView1);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "LiftStatus";
             this.Text = "LiftStatus";
             this.Load += new System.EventHandler(this.LiftStatus_Load);
