@@ -39,5 +39,11 @@ namespace TAB_Stacja
             new ModifyLift().Show();   
             this.Close();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            new LiftRapport().Show();
+            this.Close();
+        }
     }
 }

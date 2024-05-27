@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.exit_button = new System.Windows.Forms.Button();
             this.back_button = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
@@ -38,13 +39,14 @@
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.button4 = new System.Windows.Forms.Button();
             this.button5 = new System.Windows.Forms.Button();
+            this.toolTip1 = new System.Windows.Forms.ToolTip(this.components);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
             // exit_button
             // 
             this.exit_button.Location = new System.Drawing.Point(951, 511);
-            this.exit_button.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.exit_button.Margin = new System.Windows.Forms.Padding(4);
             this.exit_button.Name = "exit_button";
             this.exit_button.Size = new System.Drawing.Size(100, 28);
             this.exit_button.TabIndex = 0;
@@ -55,7 +57,7 @@
             // back_button
             // 
             this.back_button.Location = new System.Drawing.Point(843, 511);
-            this.back_button.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.back_button.Margin = new System.Windows.Forms.Padding(4);
             this.back_button.Name = "back_button";
             this.back_button.Size = new System.Drawing.Size(100, 28);
             this.back_button.TabIndex = 1;
@@ -66,7 +68,7 @@
             // button1
             // 
             this.button1.Location = new System.Drawing.Point(68, 449);
-            this.button1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button1.Margin = new System.Windows.Forms.Padding(4);
             this.button1.Name = "button1";
             this.button1.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.button1.Size = new System.Drawing.Size(241, 42);
@@ -82,7 +84,7 @@
             "Czasowy",
             "Pakietowy"});
             this.checkedListBox1.Location = new System.Drawing.Point(466, 449);
-            this.checkedListBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.checkedListBox1.Margin = new System.Windows.Forms.Padding(4);
             this.checkedListBox1.Name = "checkedListBox1";
             this.checkedListBox1.Size = new System.Drawing.Size(114, 55);
             this.checkedListBox1.TabIndex = 3;
@@ -91,7 +93,7 @@
             // button2
             // 
             this.button2.Location = new System.Drawing.Point(677, 85);
-            this.button2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button2.Margin = new System.Windows.Forms.Padding(4);
             this.button2.Name = "button2";
             this.button2.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.button2.Size = new System.Drawing.Size(249, 57);
@@ -114,13 +116,14 @@
             // button3
             // 
             this.button3.Location = new System.Drawing.Point(677, 185);
-            this.button3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button3.Margin = new System.Windows.Forms.Padding(4);
             this.button3.Name = "button3";
             this.button3.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.button3.Size = new System.Drawing.Size(249, 57);
             this.button3.TabIndex = 6;
             this.button3.Text = "WYGENERUJ RAPORT";
             this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // dataGridView1
             // 
@@ -138,7 +141,7 @@
             // button4
             // 
             this.button4.Location = new System.Drawing.Point(677, 294);
-            this.button4.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button4.Margin = new System.Windows.Forms.Padding(4);
             this.button4.Name = "button4";
             this.button4.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.button4.Size = new System.Drawing.Size(249, 57);
@@ -159,6 +162,10 @@
             this.button5.UseVisualStyleBackColor = true;
             this.button5.Click += new System.EventHandler(this.button5_Click);
             // 
+            // toolTip1
+            // 
+            this.toolTip1.ToolTipIcon = System.Windows.Forms.ToolTipIcon.Info;
+            // 
             // UserForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -174,7 +181,7 @@
             this.Controls.Add(this.button1);
             this.Controls.Add(this.back_button);
             this.Controls.Add(this.exit_button);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "UserForm";
             this.Text = "UserForm";
             this.Load += new System.EventHandler(this.UserForm_Load);
@@ -196,6 +203,7 @@
         private System.Windows.Forms.DataGridView dataGridView1;
         private System.Windows.Forms.Button button4;
         private System.Windows.Forms.Button button5;
+        private System.Windows.Forms.ToolTip toolTip1;
     }
 }
 

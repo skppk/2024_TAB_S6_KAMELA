@@ -72,7 +72,7 @@ namespace TAB_Stacja
         {
             if (password_txt.Text == "user" && login_txt.Text == "user")
             {
-                new UserForm().Show();
+                new UserForm(1).Show();
                 this.Hide();
             }
             else if (password_txt.Text == "admin" && login_txt.Text == "admin")
@@ -98,6 +98,16 @@ namespace TAB_Stacja
             else if (password_txt.Text == "lifter" && login_txt.Text == "lifter")
             {
                 new LiftOperator().Show();
+                this.Hide();
+            }
+            else if (password_txt.Text == "malysz" && login_txt.Text == "malysz")
+            {
+                new UserForm(2).Show();
+                this.Hide();
+            }
+            else if (password_txt.Text == "narciarz" && login_txt.Text == "narciarz")
+            {
+                new UserForm(3).Show();
                 this.Hide();
             }
             else

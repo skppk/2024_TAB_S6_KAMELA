@@ -15,11 +15,12 @@ namespace TAB_Stacja
     public partial class TimeTicket : Form
     {
         int where;
+        int user;
         int choosen = 0;
         int priceListID = -1;
         float multiplier = 1.0f;
         float[] prices = { 20.00f, 35.00f, 50.00f, 90.00f, 120.00f, 300.00f, 650.00f };
-        public TimeTicket(int where)
+        public TimeTicket(int where, int user)
         {
             InitializeComponent();
             try
@@ -65,6 +66,7 @@ namespace TAB_Stacja
             }
 
             this.where = where;
+            this.user = user;
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -79,7 +81,7 @@ namespace TAB_Stacja
             DateTime expire = date.AddHours(choosen);
             try
             {
-                string query = "INSERT INTO Bilety VALUES (NULL, 'czasowy', '" + date.ToString("yyyy-MM-dd") + "', 0, 1, 1, 1," + priceListID + ");";
+                string query = "INSERT INTO Bilety VALUES (NULL, 'czasowy', '" + date.ToString("yyyy-MM-dd") + "', 0, 1, " + user + ", 1," + priceListID + ");";
                 DatabaseConnector database = new DatabaseConnector();
                 database.exNonQuery(query);
 
@@ -156,7 +158,7 @@ namespace TAB_Stacja
         {
             if (where == 0)
             {
-                new UserForm().Show();
+                new UserForm(user).Show();
                 this.Close();
             }
             else

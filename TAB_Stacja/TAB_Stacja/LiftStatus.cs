@@ -114,7 +114,7 @@ namespace TAB_Stacja
         {
             if (where == 0)
             {
-                new UserForm().Show();
+                new UserForm(1).Show();
                 this.Close();
             }
             else
