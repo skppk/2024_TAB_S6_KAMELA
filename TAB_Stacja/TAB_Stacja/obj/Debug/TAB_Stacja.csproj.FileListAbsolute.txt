@@ -300,3 +300,5 @@ E:\Pulpit\HDiSED\TAB\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.LiftOperator.res
 E:\Pulpit\HDiSED\TAB\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.TicketGate.resources
 E:\Pulpit\HDiSED\TAB\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.UserRapport.resources
 E:\Pulpit\HDiSED\TAB\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.LiftRapport.resources
+E:\Pulpit\HDiSED\TAB\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.WorkersRapport.resources
+E:\Pulpit\HDiSED\TAB\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.UserLiftRapport.resources

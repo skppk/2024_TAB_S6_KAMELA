@@ -31,7 +31,11 @@ namespace TAB_Stacja
 
         private void Login_Load(object sender, EventArgs e)
         {
+            helpProvider1.SetShowHelp(login_txt, true);
+            helpProvider1.SetHelpString(login_txt, "Wpisz tutaj swoj login");
 
+            helpProvider1.SetShowHelp(password_txt, true);
+            helpProvider1.SetHelpString(password_txt, "Wpisz tutaj swoje haslo");
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)

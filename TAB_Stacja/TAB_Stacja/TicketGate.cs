@@ -148,6 +148,7 @@ namespace TAB_Stacja
                     database.exNonQuery(query);
                     database.exNonQuery(query3);
                     MessageBox.Show("Bilet skasowany poprawnie!");
+                    LoadData();
                     return;
 
                 }

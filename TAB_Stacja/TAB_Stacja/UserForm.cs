@@ -164,5 +164,11 @@ namespace TAB_Stacja
             new UserRapport(user).Show();
             this.Hide();
         }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            new UserLiftRapport().Show();
+            this.Hide();
+        }
     }
 }
