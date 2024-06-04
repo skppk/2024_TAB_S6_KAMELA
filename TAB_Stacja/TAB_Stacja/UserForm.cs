@@ -65,7 +65,6 @@ namespace TAB_Stacja
         private void UserForm_Load(object sender, EventArgs e)
         {
             LoadData();
-           
 
             toolTip1.SetToolTip(dataGridView1, "Tabela wyświetlająca bilety.");
             toolTip1.SetToolTip(checkedListBox1, "Wybierz rodzaj biletu, jaki chcesz kupić.");
