@@ -302,3 +302,10 @@ E:\Pulpit\HDiSED\TAB\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.UserRapport.reso
 E:\Pulpit\HDiSED\TAB\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.LiftRapport.resources
 E:\Pulpit\HDiSED\TAB\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.WorkersRapport.resources
 E:\Pulpit\HDiSED\TAB\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.UserLiftRapport.resources
+C:\Users\SzynS\Source\Repos\2024_TAB_S6_KAMELA\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.ChangeLiftStatus.resources
+C:\Users\SzynS\Source\Repos\2024_TAB_S6_KAMELA\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.LiftOperator.resources
+C:\Users\SzynS\Source\Repos\2024_TAB_S6_KAMELA\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.LiftRapport.resources
+C:\Users\SzynS\Source\Repos\2024_TAB_S6_KAMELA\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.TicketGate.resources
+C:\Users\SzynS\Source\Repos\2024_TAB_S6_KAMELA\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.UserLiftRapport.resources
+C:\Users\SzynS\Source\Repos\2024_TAB_S6_KAMELA\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.UserRapport.resources
+C:\Users\SzynS\Source\Repos\2024_TAB_S6_KAMELA\TAB_Stacja\TAB_Stacja\obj\Debug\TAB_Stacja.WorkersRapport.resources
