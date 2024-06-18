@@ -15,6 +15,7 @@ namespace TAB_Stacja
     public partial class LiftStatus : Form
     {
         int where;
+        int liftScheduleID = 0;
         public LiftStatus(int where)
         {
             InitializeComponent();
@@ -27,36 +28,72 @@ namespace TAB_Stacja
         private void LoadData()
         {
             DatabaseConnector database = new DatabaseConnector();
-            try
+            database.getCon().Open();
+            DateTime date = DateTime.Now;
+            string query = "SELECT id_rozkladu FROM Rozklady WHERE data_obowiazywania <= '" + date.ToString("yyyy-MM-dd") + "' ORDER BY data_obowiazywania DESC, id_rozkladu DESC LIMIT 1;";
+            MySqlCommand command = new MySqlCommand(query, database.getCon());
+            MySqlDataReader reader = command.ExecuteReader();
+            if (reader.HasRows)
             {
-
-                database.getCon().Open();
-                string query = "SELECT id_wyciagu AS ID, ilosc_miejsc AS MIEJSCA, czy_czynny AS STATUS from wyciagi";
-
-                dataAdapter = new MySqlDataAdapter(query, database.getCon());
-                dataTable = new DataTable();
-                dataAdapter.Fill(dataTable);
-                dataGridView1.DataSource = dataTable;
-                
-
-                
-                dataGridView1.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
-
-                foreach (DataGridViewColumn column in dataGridView1.Columns)
+                while (reader.Read())
                 {
-                    column.AutoSizeMode = DataGridViewAutoSizeColumnMode.AllCells;
+                    liftScheduleID = reader.GetInt16(0);
                 }
+                reader.Close();
+                try
+                {
+                    string query2 = "SELECT w.id_wyciagu AS ID, w.ilosc_miejsc AS MIEJSCA, w.czy_czynny AS STATUS, r.godz_otwarcia AS OTWARCIE, r.godz_zamkniecia AS ZAMKNIECIE FROM Wyciagi w JOIN (" +
+                        "SELECT id_wyciagu, godz_otwarcia, godz_zamkniecia FROM Rozklady WHERE (id_wyciagu, data_obowiazywania, id_rozkladu) IN (SELECT id_wyciagu, data_obowiazywania, MAX(id_rozkladu) AS id_rozkladu FROM Rozklady WHERE data_obowiazywania <= CURRENT_DATE GROUP BY id_wyciagu, data_obowiazywania) AND data_obowiazywania = (SELECT MAX(data_obowiazywania) FROM Rozklady r2 WHERE r2.id_wyciagu = Rozklady.id_wyciagu AND r2.data_obowiazywania <= CURRENT_DATE)" +
+                        ") r ON w.id_wyciagu = r.id_wyciagu;";
+
+                    dataAdapter = new MySqlDataAdapter(query2, database.getCon());
+                    dataTable = new DataTable();
+                    dataAdapter.Fill(dataTable);
+                    dataGridView1.DataSource = dataTable;
 
 
-            
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show("Wystąpił błąd podczas ładowania danych: " + ex.Message);
-            }
-            finally
-            {
-                database.getCon().Close();
+
+                    dataGridView1.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
+
+                    TimeSpan currentTime = DateTime.Now.TimeOfDay;
+
+                    foreach (DataGridViewRow row in dataGridView1.Rows)
+                    {
+                        if (row.Cells["ZAMKNIECIE"].Value != null)
+                        {
+                            if (TimeSpan.TryParse(row.Cells["ZAMKNIECIE"].Value.ToString(), out TimeSpan cellTime))
+                            {
+                                if (cellTime < currentTime)
+                                {
+                                    row.Cells["STATUS"].Value = false;
+                                }
+                            }
+                        }
+                        if (row.Cells["OTWARCIE"].Value != null)
+                        {
+                            if (TimeSpan.TryParse(row.Cells["OTWARCIE"].Value.ToString(), out TimeSpan cellTime))
+                            {
+                                if (cellTime > currentTime)
+                                {
+                                    row.Cells["STATUS"].Value = false;
+                                }
+                            }
+                        }
+                    }
+
+                    foreach (DataGridViewColumn column in dataGridView1.Columns)
+                    {
+                        column.AutoSizeMode = DataGridViewAutoSizeColumnMode.AllCells;
+                    }
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show("Wystąpił błąd podczas ładowania danych: " + ex.Message);
+                }
+                finally
+                {
+                    database.getCon().Close();
+                }
             }
         }
 
@@ -77,7 +114,7 @@ namespace TAB_Stacja
         {
             if (where == 0)
             {
-                new UserForm().Show();
+                new UserForm(1).Show();
                 this.Close();
             }
             else
@@ -99,17 +136,17 @@ namespace TAB_Stacja
 
         private void dataGridView1_CellFormatting(object sender, DataGridViewCellFormattingEventArgs e)
         {
-            if(e.ColumnIndex == 2 && e.Value != null)
+            if (e.ColumnIndex == 2 && e.Value != null)
             {
-                int v = Convert.ToInt32(e.Value); 
-                if(v == 0)
+                int v = Convert.ToInt32(e.Value);
+                if (v == 0)
                 {
-                    e.CellStyle.BackColor = Color.Red; 
+                    e.CellStyle.BackColor = Color.Red;
 
                 }
                 else
                 {
-                    e.CellStyle.BackColor = Color.Green; 
+                    e.CellStyle.BackColor = Color.Green;
                 }
             }
         }

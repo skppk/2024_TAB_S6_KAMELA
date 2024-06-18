@@ -31,7 +31,11 @@ namespace TAB_Stacja
 
         private void Login_Load(object sender, EventArgs e)
         {
+            helpProvider1.SetShowHelp(login_txt, true);
+            helpProvider1.SetHelpString(login_txt, "Wpisz tutaj swoj login");
 
+            helpProvider1.SetShowHelp(password_txt, true);
+            helpProvider1.SetHelpString(password_txt, "Wpisz tutaj swoje haslo");
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
@@ -72,7 +76,7 @@ namespace TAB_Stacja
         {
             if (password_txt.Text == "user" && login_txt.Text == "user")
             {
-                new UserForm().Show();
+                new UserForm(1).Show();
                 this.Hide();
             }
             else if (password_txt.Text == "admin" && login_txt.Text == "admin")
@@ -100,11 +104,31 @@ namespace TAB_Stacja
                 new LiftOperator().Show();
                 this.Hide();
             }
+            else if (password_txt.Text == "malysz" && login_txt.Text == "malysz")
+            {
+                new UserForm(2).Show();
+                this.Hide();
+            }
+            else if (password_txt.Text == "narciarz" && login_txt.Text == "narciarz")
+            {
+                new UserForm(3).Show();
+                this.Hide();
+            }
             else
             {
                 MessageBox.Show("Niepoprawne hasło.");
             }
 
+
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
 
         }
     }

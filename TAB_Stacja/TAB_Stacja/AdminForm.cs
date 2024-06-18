@@ -39,5 +39,23 @@ namespace TAB_Stacja
             new ModifyLift().Show();   
             this.Close();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            new LiftRapport().Show();
+            this.Close();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            new WorkersRapport().Show();
+            this.Close();
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            new WorkersManagement().Show();
+            this.Close();
+        }
     }
 }

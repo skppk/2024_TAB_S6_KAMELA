@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Instrukcja</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        header, nav, main, footer {
+            width: 80%;
+            max-width: 800px;
+            text-align: center;
+        }
+        header img {
+            width: 100px;
+            height: 100px;
+        }
+        nav ul {
+            list-style: none;
+            padding: 0;
+            text-align: center;
+        } 
+       
+        
+
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Instrukcja obsługi aplikacji - Stacja Narciarska</h1>
+        <img src="stacja-logo.jpg" alt="Logo Stacji Narciarskiej" />
+        <hr />
+    </header>
+    <nav id="spis-tresci">
+        <h2>Spis treści</h2>
+        <ul>
+            <li><a href="#wprowadzenie">Wprowadzenie</a></li>
+            <li><a href="#logowanie-rejestracja">Logowanie i Rejestracja</a></li>
+            <li>
+                <a href="#uzytkownicy">Użytkownicy</a>
+                <ul>
+                    <li><a href="#user">User</a></li>
+                    <li><a href="#admin">Admin</a></li>
+                    <li><a href="#seller">Seller</a></li>
+                    <li><a href="#service">Service</a></li>
+                    <li><a href="#management">Management</a></li>
+                    <li><a href="#lifter">Lifter</a></li>
+                </ul>
+            </li>
+        </ul>
+        <hr />
+    </nav>
+    <main>
+        <section id="wprowadzenie">
+            <h2>Wprowadzenie</h2>
+            <p>
+                Witamy w instrukcji obsługi naszej aplikacji - Stacja Narciarska.<br />
+                Nasza aplikacja została zaprojektowana, aby ułatwić korzystanie z usług stacji narciarskiej zarówno narciarzom, jak i pracownikom.
+                W niniejszej instrukcji znajdziesz szczegółowe informacje dotyczące logowania, rejestracji, zakupu biletów oraz zarządzania różnymi funkcjami aplikacji.
+                Mamy nadzieję, że ta instrukcja pomoże Ci w pełni wykorzystać wszystkie możliwości oferowane przez naszą aplikację.
+
+            </p>
+            <p><a href="#spis-tresci">Powrót do menu</a></p>
+        </section>
+        <hr />
+        <section id="logowanie-rejestracja">
+            <h2>Logowanie i Rejestracja</h2>
+            <p>Główny ekran logowania, wyświelany po włączeniu aplikacji:</p>
+            <img src="login0.png" alt="Ekran Logowania" />
+            <p>
+                W zaznaczonych miejscach wpisujemy kolejno: login i hasło przypisane podczas rejestracji.
+                Następnie zatwierdzamy operację logowania przyciskiem "ZALOGUJ SIĘ". Po poprawnym zalogowaniu się,
+                system przeniesie użytkownika do ekranu odpowiadającemu jego roli w systemie.
+            </p>
+            <img src="login1.png" alt="Ekran Logowania - rejestracja" />
+            <p>Jeżeli nie posiadasz konta w naszym systemie, możesz za pomocą przycisku "ZAREJESTRUJ SIĘ"
+            przenieść się do ekranu rejestracji konta.</p>
+            
+            <p><a href="#spis-tresci">Powrót do menu</a></p>
+        </section>
+        <hr />
+        <section id="uzytkownicy">
+            <h2>Użytkownicy</h2>
+            <section id="user">
+                <h3>User (narciarz)</h3>
+                <p>1. Widok wyświelany użytkownikowi po pomyślnym zalogowaniu:</p>
+                
+                <img src="user0.png" alt="User - widok glowny" />
+                <p>Dla wyświetlonego wyżej okna zostały przygotowane tooltipy, które wyświetlają po najechaniu
+                    kursorem na wybrany przycisk lub inny obiekt.
+                </p>
+                <p>2. Proces kupna biletu:</p>
+                <img src="user1.png" alt="User - kupno" />
+                <p>W celu kupna biletu, należy zaznaczyć okienko z oczekiwanym rodzajem biletu (czasowy lub pakietowy),
+                    następnie zatwierdzić operację przyciskiem "KUP BILET".</p>
+                <div class="images">
+                    <img src="user2.png" alt="Bilet czasowy" />
+                    <img src="user2_2.png" alt="Bilet pakietowy" />
+                </div>
+                <p>Użytkownik zostanie przeniesiony do kolejnego okna, w którym będzie miał do wyboru: odpowiedni czas (bilet czasowy) lub konkretną liczbę przejazdów
+                    (bilet pakietowy). Wybór zatwierdzamy przyciskiem "Zatwierdź".</p> 
+                <img src="user2_1.png" alt="User - pomyślne kupno" />
+                <p>W przypadku poprawnego zakupu, wyświetlony zostanie odpowiedni komunikat potwierdzający.
+                    Nieudana próba kupna biletu, zostanie również odpowiednio zakomunikowana (wyświetli się okienko z odpowiednim błędem).
+                <p>3. Aktywne bilety dla zalogowanego użytkownika wyświetlają się w tabeli, w głównym oknie:</p>
+                <img src="user3.png" alt="User - aktywne bilety" />
+                <img src="user8.png" alt="User - odbicie" />
+                </p>4. Zalogowany użytkownik może, przy użyciu naszego systemu odbić swój bilet. Przy użyciu przycisku "ODBIJ BILET", 
+                użytkownik przenoszony jest do odpowiedniego interfejsu.</p>
+                <img src="user4.png" alt="User - odbicie cd" />
+                </p>Należy wybrać bilet do skasowania, następnie wybieramy interesujący nas wyciąg i zatwierdzamy operację przyciskiem "Zatwierdź".</p>
+                </p>5. Użytkownik ma również dostęp do funkcjonalności raportujących programu:</p>
+                <img src="user9.png" alt="User - raporty" />
+                </p>Przykładowy raport użytkownika:</p>
+                <img src="user7.png" alt="User - raport user" />
+                </p>Przykładowy raport przejazdów (możliwość filtrowania po dacie):</p>
+                <img src="user6.png" alt="User - raport przejazdy" />
+                </p>6. Udostępniona jest również użytkownikowi możliwość sprawdzenia statusu wyciągów, poprzez kliknięcie na przycisk "STATUS WYCIĄGÓW": </p>
+                <img src="user10.png" alt="User - status wyciągów" />
+                </p>Użytkownik przenoszony jest do okna wyświetlającego tabelę z informacjami dotyczącymi wyciągów 
+                (limit miejsc, status wyciągu, godzina otwarcia i zamknięcia) </p>
+                <img src="user11.png" alt="User - raport przejazdy cd" />
+                
+        
+                
+                </p>
+                </p>
+                <p><a href="#spis-tresci">Powrót do menu</a></p>
+            </section>
+            <hr />
+            <section id="admin">
+                <h3>Admin</h3>
+                <p>Główny widok wyświetlany po poprawnym zalogowaniu się na konto administratora:</p>
+                <img src="admin0.png" alt="Admin - widok główny" />
+
+                <p><a href="#spis-tresci">Powrót do menu</a></p>
+            </section>
+            <hr />
+            <section id="seller">
+                <h3>Seller</h3>
+                <p>Instrukcje dla sprzedawców.</p>
+                <p><a href="#spis-tresci">Powrót do menu</a></p>
+            </section>
+            <hr />
+            <section id="service">
+                <h3>Service</h3>
+                <p>Instrukcje dla serwismanów.</p>
+                <p><a href="#spis-tresci">Powrót do menu</a></p>
+            </section>
+            <hr />
+            <section id="management">
+                <h3>Management</h3>
+                <p>Instrukcje dla zarządu.</p>
+                <p><a href="#spis-tresci">Powrót do menu</a></p>
+            </section>
+            <hr />
+            <section id="lifter">
+                <h3>Lifter</h3>
+                <p>Instrukcje dla liftera.</p>
+                <p><a href="#spis-tresci">Powrót do menu</a></p>
+            </section>
+            <hr />
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Instrukcja obsługi aplikacji. Wszelkie prawa zastrzeżone.</p>
+    </footer>
+</body>
+</html>

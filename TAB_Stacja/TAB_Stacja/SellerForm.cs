@@ -35,13 +35,13 @@ namespace TAB_Stacja
 
         private void button1_Click(object sender, EventArgs e)
         {
-            new TimeTicket(1).Show();
+            new TimeTicket(1, 1).Show();
             this.Hide();
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
-            new PacketTicket(1).Show();
+            new PacketTicket(1, 1).Show();
             this.Hide();
         }
     }

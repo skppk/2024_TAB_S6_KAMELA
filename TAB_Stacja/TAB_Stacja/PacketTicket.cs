@@ -17,11 +17,12 @@ namespace TAB_Stacja
     public partial class PacketTicket : Form
     {
         int where;
+        int user;
         int choosen = 0;
         int priceListID = -1;
         float multiplier = 1.0f;
         float[] prices = { 15.00f, 25.00f, 35.00f, 45.00f, 65.00f, 100.00f, 190.00f };
-        public PacketTicket(int where)
+        public PacketTicket(int where, int user)
         {
             InitializeComponent();
             try
@@ -67,6 +68,7 @@ namespace TAB_Stacja
             }
 
             this.where = where;
+            this.user = user;
         }
         private void button1_Click(object sender, EventArgs e)
         {
@@ -79,7 +81,7 @@ namespace TAB_Stacja
             DateTime date = DateTime.Now;
             try
             {
-                string query = "INSERT INTO Bilety VALUES (NULL, 'pakietowy', '" + date.ToString("yyyy-MM-dd") + "', 0, 1, 1, 1," + priceListID + ");";
+                string query = "INSERT INTO Bilety VALUES (NULL, 'pakietowy', '" + date.ToString("yyyy-MM-dd") + "', 0, 1, " + user + ", 1," + priceListID + ");";
                 DatabaseConnector database = new DatabaseConnector();
                 database.exNonQuery(query);
 
@@ -156,7 +158,7 @@ namespace TAB_Stacja
         {
             if (where == 0)
             {
-                new UserForm().Show();
+                new UserForm(user).Show();
                 this.Close();
             }
             else

@@ -22,7 +22,7 @@ namespace TAB_Stacja
         private void button2_Click(object sender, EventArgs e)
         {
             new LiftOperator().Show();
-            this.Close();
+            this.Hide();
         }
 
         private void button3_Click(object sender, EventArgs e)
