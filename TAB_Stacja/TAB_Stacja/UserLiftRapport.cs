@@ -31,7 +31,7 @@ namespace TAB_Stacja
             {
                 database.getCon().Open();
                 //DateTime date = DateTime.Now;
-                string query = "SELECT t.poziom_trudnosci AS TRASA, t.długosc AS DŁUGOŚĆ, w.nazwa AS WYCIĄG, h.data_uzycia AS DATA FROM Trasy t JOIN Wyciagi w ON t.id_wyciagu = w.id_wyciagu JOIN Historiabiletu h ON h.id_wyciagu = w.id_wyciagu WHERE h.id_narciarza = 1";
+                string query = "SELECT t.nazwa AS TRASA, t.długosc AS DŁUGOŚĆ, w.nazwa AS WYCIĄG, h.data_uzycia AS DATA FROM Trasy t JOIN Wyciagi w ON t.id_wyciagu = w.id_wyciagu JOIN Historiabiletu h ON h.id_wyciagu = w.id_wyciagu WHERE h.id_narciarza = 1";
                 if (!date.Equals("1970-01-01"))
                 {
                     query += " AND DATE(h.data_uzycia) = '" + date + "'";
@@ -142,6 +142,11 @@ namespace TAB_Stacja
             }
             date = comboBox1.GetItemText(comboBox1.SelectedItem);
             LoadData();
+        }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
         }
     }
 }

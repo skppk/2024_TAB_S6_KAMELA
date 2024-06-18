@@ -81,6 +81,7 @@
             this.label1.Size = new System.Drawing.Size(60, 16);
             this.label1.TabIndex = 20;
             this.label1.Text = "Narciarz:";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // comboBox1
             // 
@@ -99,6 +100,7 @@
             this.label2.Size = new System.Drawing.Size(56, 16);
             this.label2.TabIndex = 22;
             this.label2.Text = "Wyciąg:";
+            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // comboBox2
             // 

@@ -37,8 +37,8 @@ namespace TAB_Stacja
             {
                 database.getCon().Open();
                 DateTime date = DateTime.Now;
-                string query = "SELECT Bilety.id_biletu AS ID, rodzaj_biletu as RODZAJ, data_zakupu as DATA, data_konca as WYGASA FROM Bilety INNER JOIN Biletyczasowe ON Bilety.id_biletu=Biletyczasowe.id_biletu WHERE Biletyczasowe.data_konca >= CURRENT_TIME AND Bilety.id_narciarza = " + user + " UNION " +
-                    "SELECT Bilety.id_biletu AS ID, rodzaj_biletu as RODZAJ, data_zakupu as DATA_ZAKUPU, ilość_przejazdow as WYGASA FROM Bilety INNER JOIN Biletypakietowe ON Bilety.id_biletu=Biletypakietowe.id_biletu WHERE biletypakietowe.ilość_przejazdow>0 AND Bilety.id_narciarza = " + user + " ";
+                string query = "SELECT Bilety.id_biletu AS ID, rodzaj_biletu as RODZAJ, data_zakupu as DATA, data_konca as WYGASA FROM Bilety INNER JOIN Biletyczasowe ON Bilety.id_biletu=Biletyczasowe.id_biletu WHERE Biletyczasowe.data_konca >= CURRENT_TIME AND czy_aktywny=1 AND Bilety.id_narciarza = " + user + " UNION " +
+                    "SELECT Bilety.id_biletu AS ID, rodzaj_biletu as RODZAJ, data_zakupu as DATA_ZAKUPU, ilość_przejazdow as WYGASA FROM Bilety INNER JOIN Biletypakietowe ON Bilety.id_biletu=Biletypakietowe.id_biletu WHERE biletypakietowe.ilość_przejazdow>0 AND czy_aktywny=1 AND Bilety.id_narciarza = " + user + " ";
                 dataAdapter = new MySqlDataAdapter(query, database.getCon());
                 dataTable = new DataTable();
                 dataAdapter.Fill(dataTable);

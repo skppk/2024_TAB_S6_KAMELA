@@ -239,6 +239,12 @@
     <Compile Include="UserRapport.Designer.cs">
       <DependentUpon>UserRapport.cs</DependentUpon>
     </Compile>
+    <Compile Include="WorkersManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WorkersManagement.Designer.cs">
+      <DependentUpon>WorkersManagement.cs</DependentUpon>
+    </Compile>
     <Compile Include="WorkersRapport.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -323,6 +329,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="UserRapport.resx">
       <DependentUpon>UserRapport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WorkersManagement.resx">
+      <DependentUpon>WorkersManagement.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="WorkersRapport.resx">
       <DependentUpon>WorkersRapport.cs</DependentUpon>

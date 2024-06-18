@@ -51,5 +51,11 @@ namespace TAB_Stacja
             new WorkersRapport().Show();
             this.Close();
         }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            new WorkersManagement().Show();
+            this.Close();
+        }
     }
 }

@@ -90,7 +90,8 @@ namespace TAB_Stacja
 
         private void button2_Click(object sender, EventArgs e)
         {
-            new EditUserTickets().Show();
+            new EditUserTickets(user).Show();
+            this.Close();
         }
 
         private void label1_Click(object sender, EventArgs e)
