@@ -59,5 +59,10 @@ namespace TAB_Stacja
         {
             password_txt.PasswordChar = '\u25CF';
         }
+
+        private void Registration_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
