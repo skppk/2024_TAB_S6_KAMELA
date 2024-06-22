@@ -138,5 +138,31 @@ namespace TAB_Stacja
                 return;
             }
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            if (dataGridView1.SelectedCells.Count > 0)
+            {
+                int selectedrowindex = dataGridView1.SelectedCells[0].RowIndex;
+                DataGridViewRow selectedRow = dataGridView1.Rows[selectedrowindex];
+                id = Convert.ToString(selectedRow.Cells["ID"].Value);
+                typ = Convert.ToString(selectedRow.Cells["RODZAJ"].Value);
+            }
+            if (id == "-1")
+            {
+                MessageBox.Show("Wybierz bilet");
+                return;
+            }
+            if (typ == "czasowy")
+            {
+                new EditTimeTIcket(user, Convert.ToInt16(id)).Show();
+                this.Close();
+            }
+            else
+            {
+                new EditPacketTicket(user, Convert.ToInt16(id)).Show();
+                this.Close();
+            }
+        }
     }
 }

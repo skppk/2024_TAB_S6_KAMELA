@@ -35,6 +35,7 @@
             this.button3 = new System.Windows.Forms.Button();
             this.price = new System.Windows.Forms.Label();
             this.checkBox1 = new System.Windows.Forms.CheckBox();
+            this.helpProvider1 = new System.Windows.Forms.HelpProvider();
             this.SuspendLayout();
             // 
             // checkedListBox1
@@ -75,6 +76,7 @@
             this.label3.Size = new System.Drawing.Size(42, 16);
             this.label3.TabIndex = 4;
             this.label3.Text = "Cena:";
+            this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // button2
             // 
@@ -106,6 +108,7 @@
             this.price.Name = "price";
             this.price.Size = new System.Drawing.Size(0, 16);
             this.price.TabIndex = 7;
+            this.price.Click += new System.EventHandler(this.price_Click);
             // 
             // checkBox1
             // 
@@ -117,6 +120,10 @@
             this.checkBox1.Text = "ulgowy";
             this.checkBox1.UseVisualStyleBackColor = true;
             this.checkBox1.CheckedChanged += new System.EventHandler(this.checkBox1_CheckedChanged);
+            // 
+            // helpProvider1
+            // 
+            this.helpProvider1.HelpNamespace = "../../../html/main.html";
             // 
             // TimeTicket
             // 
@@ -132,6 +139,7 @@
             this.Controls.Add(this.checkedListBox1);
             this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "TimeTicket";
+            this.helpProvider1.SetShowHelp(this, true);
             this.Text = "TimeTicket";
             this.Load += new System.EventHandler(this.TimeTicket_Load);
             this.ResumeLayout(false);
@@ -148,5 +156,6 @@
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Label price;
         private System.Windows.Forms.CheckBox checkBox1;
+        private System.Windows.Forms.HelpProvider helpProvider1;
     }
 }

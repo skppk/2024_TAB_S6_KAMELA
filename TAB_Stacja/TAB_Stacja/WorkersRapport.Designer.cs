@@ -33,6 +33,7 @@
             this.button2 = new System.Windows.Forms.Button();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.label1 = new System.Windows.Forms.Label();
+            this.helpProvider1 = new System.Windows.Forms.HelpProvider();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -90,6 +91,10 @@
             this.label1.Text = "Pracownik:";
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
+            // helpProvider1
+            // 
+            this.helpProvider1.HelpNamespace = "html/main.html";
+            // 
             // WorkersRapport
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -101,6 +106,7 @@
             this.Controls.Add(this.button2);
             this.Controls.Add(this.dataGridView1);
             this.Name = "WorkersRapport";
+            this.helpProvider1.SetShowHelp(this, true);
             this.Text = "WorkersRapport";
             this.Load += new System.EventHandler(this.WorkersRapport_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
@@ -116,5 +122,6 @@
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.DataGridView dataGridView1;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.HelpProvider helpProvider1;
     }
 }

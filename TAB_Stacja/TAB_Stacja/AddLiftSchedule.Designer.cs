@@ -41,6 +41,7 @@
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
+            this.helpProvider1 = new System.Windows.Forms.HelpProvider();
             this.SuspendLayout();
             // 
             // dateTimePicker1
@@ -169,6 +170,10 @@
             this.button3.UseVisualStyleBackColor = true;
             this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
+            // helpProvider1
+            // 
+            this.helpProvider1.HelpNamespace = "html/main.html";
+            // 
             // AddLiftSchedule
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -188,6 +193,7 @@
             this.Controls.Add(this.dateTimePicker2);
             this.Controls.Add(this.dateTimePicker1);
             this.Name = "AddLiftSchedule";
+            this.helpProvider1.SetShowHelp(this, true);
             this.Text = "AddLiftSchedule";
             this.Load += new System.EventHandler(this.AddLiftSchedule_Load);
             this.ResumeLayout(false);
@@ -210,5 +216,6 @@
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.HelpProvider helpProvider1;
     }
 }

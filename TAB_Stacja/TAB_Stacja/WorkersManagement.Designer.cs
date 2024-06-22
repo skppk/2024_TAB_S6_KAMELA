@@ -37,6 +37,7 @@
             this.button3 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
+            this.helpProvider1 = new System.Windows.Forms.HelpProvider();
             this.SuspendLayout();
             // 
             // label2
@@ -124,6 +125,10 @@
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
+            // helpProvider1
+            // 
+            this.helpProvider1.HelpNamespace = "html/main.html";
+            // 
             // WorkersManagement
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -139,6 +144,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.comboBox1);
             this.Name = "WorkersManagement";
+            this.helpProvider1.SetShowHelp(this, true);
             this.Text = "WorkersManagement";
             this.Load += new System.EventHandler(this.WorkersManagement_Load);
             this.ResumeLayout(false);
@@ -157,5 +163,6 @@
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.HelpProvider helpProvider1;
     }
 }

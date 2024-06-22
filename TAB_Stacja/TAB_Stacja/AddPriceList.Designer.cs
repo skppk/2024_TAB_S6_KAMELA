@@ -67,6 +67,7 @@
             this.textBox14 = new System.Windows.Forms.TextBox();
             this.textBox15 = new System.Windows.Forms.TextBox();
             this.textBox16 = new System.Windows.Forms.TextBox();
+            this.helpProvider1 = new System.Windows.Forms.HelpProvider();
             this.SuspendLayout();
             // 
             // textBox3
@@ -431,6 +432,10 @@
             this.textBox16.TabIndex = 55;
             this.textBox16.Text = "65";
             // 
+            // helpProvider1
+            // 
+            this.helpProvider1.HelpNamespace = "html/main.html";
+            // 
             // AddPriceList
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -476,6 +481,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.textBox3);
             this.Name = "AddPriceList";
+            this.helpProvider1.SetShowHelp(this, true);
             this.Text = "AddPriceList";
             this.Load += new System.EventHandler(this.AddPriceList_Load);
             this.ResumeLayout(false);
@@ -523,5 +529,6 @@
         private System.Windows.Forms.TextBox textBox14;
         private System.Windows.Forms.TextBox textBox15;
         private System.Windows.Forms.TextBox textBox16;
+        private System.Windows.Forms.HelpProvider helpProvider1;
     }
 }

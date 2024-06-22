@@ -189,5 +189,15 @@ namespace TAB_Stacja
                 multiplier = 1.0f;
             }
         }
+
+        private void price_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

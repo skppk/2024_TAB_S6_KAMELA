@@ -32,6 +32,7 @@
             this.button1 = new System.Windows.Forms.Button();
             this.back_button = new System.Windows.Forms.Button();
             this.exit_button = new System.Windows.Forms.Button();
+            this.helpProvider1 = new System.Windows.Forms.HelpProvider();
             this.SuspendLayout();
             // 
             // button4
@@ -80,6 +81,10 @@
             this.exit_button.UseVisualStyleBackColor = true;
             this.exit_button.Click += new System.EventHandler(this.exit_button_Click);
             // 
+            // helpProvider1
+            // 
+            this.helpProvider1.HelpNamespace = "html/main.html";
+            // 
             // ModifyLift
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -90,6 +95,7 @@
             this.Controls.Add(this.button1);
             this.Controls.Add(this.button4);
             this.Name = "ModifyLift";
+            this.helpProvider1.SetShowHelp(this, true);
             this.Text = "ModifyLift";
             this.ResumeLayout(false);
 
@@ -101,5 +107,6 @@
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button back_button;
         private System.Windows.Forms.Button exit_button;
+        private System.Windows.Forms.HelpProvider helpProvider1;
     }
 }

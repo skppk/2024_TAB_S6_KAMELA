@@ -182,7 +182,7 @@
             // 
             // helpProvider1
             // 
-            this.helpProvider1.HelpNamespace = "E:\\Pulpit\\HDiSED\\TAB\\TAB_Stacja\\main.html";
+            this.helpProvider1.HelpNamespace = "html/main.html";
             // 
             // UserForm
             // 

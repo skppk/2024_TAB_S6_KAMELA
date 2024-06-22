@@ -123,6 +123,18 @@
       <DependentUpon>ChangeLiftStatus.cs</DependentUpon>
     </Compile>
     <Compile Include="DatabaseConnector.cs" />
+    <Compile Include="EditPacketTicket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditPacketTicket.Designer.cs">
+      <DependentUpon>EditPacketTicket.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditTimeTIcket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditTimeTIcket.Designer.cs">
+      <DependentUpon>EditTimeTIcket.cs</DependentUpon>
+    </Compile>
     <Compile Include="EditUserTickets.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -262,6 +274,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="ChangeLiftStatus.resx">
       <DependentUpon>ChangeLiftStatus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditPacketTicket.resx">
+      <DependentUpon>EditPacketTicket.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditTimeTIcket.resx">
+      <DependentUpon>EditTimeTIcket.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="EditUserTickets.resx">
       <DependentUpon>EditUserTickets.cs</DependentUpon>

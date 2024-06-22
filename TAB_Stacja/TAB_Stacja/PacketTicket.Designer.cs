@@ -35,6 +35,7 @@
             this.checkedListBox1 = new System.Windows.Forms.CheckedListBox();
             this.price = new System.Windows.Forms.Label();
             this.checkBox1 = new System.Windows.Forms.CheckBox();
+            this.helpProvider1 = new System.Windows.Forms.HelpProvider();
             this.SuspendLayout();
             // 
             // button3
@@ -118,6 +119,10 @@
             this.checkBox1.UseVisualStyleBackColor = true;
             this.checkBox1.CheckedChanged += new System.EventHandler(this.checkBox1_CheckedChanged);
             // 
+            // helpProvider1
+            // 
+            this.helpProvider1.HelpNamespace = "html/main.html";
+            // 
             // PacketTicket
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -132,6 +137,7 @@
             this.Controls.Add(this.checkedListBox1);
             this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "PacketTicket";
+            this.helpProvider1.SetShowHelp(this, true);
             this.Text = "PacketTicket";
             this.Load += new System.EventHandler(this.PacketTicket_Load);
             this.ResumeLayout(false);
@@ -148,5 +154,6 @@
         private System.Windows.Forms.CheckedListBox checkedListBox1;
         private System.Windows.Forms.Label price;
         private System.Windows.Forms.CheckBox checkBox1;
+        private System.Windows.Forms.HelpProvider helpProvider1;
     }
 }

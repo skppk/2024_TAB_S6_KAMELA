@@ -33,12 +33,13 @@
             this.button2 = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
+            this.helpProvider1 = new System.Windows.Forms.HelpProvider();
             this.SuspendLayout();
             // 
             // back_button
             // 
             this.back_button.Location = new System.Drawing.Point(829, 511);
-            this.back_button.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.back_button.Margin = new System.Windows.Forms.Padding(4);
             this.back_button.Name = "back_button";
             this.back_button.Size = new System.Drawing.Size(100, 28);
             this.back_button.TabIndex = 3;
@@ -49,7 +50,7 @@
             // exit_button
             // 
             this.exit_button.Location = new System.Drawing.Point(937, 511);
-            this.exit_button.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.exit_button.Margin = new System.Windows.Forms.Padding(4);
             this.exit_button.Name = "exit_button";
             this.exit_button.Size = new System.Drawing.Size(100, 28);
             this.exit_button.TabIndex = 2;
@@ -90,6 +91,10 @@
             this.button3.Text = "WYGENERUJ RAPORT NARCIARZY";
             this.button3.UseVisualStyleBackColor = true;
             // 
+            // helpProvider1
+            // 
+            this.helpProvider1.HelpNamespace = "html/main.html";
+            // 
             // ManagementForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -100,8 +105,9 @@
             this.Controls.Add(this.button2);
             this.Controls.Add(this.back_button);
             this.Controls.Add(this.exit_button);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "ManagementForm";
+            this.helpProvider1.SetShowHelp(this, true);
             this.Text = "ManagementForm";
             this.ResumeLayout(false);
 
@@ -114,5 +120,6 @@
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.HelpProvider helpProvider1;
     }
 }

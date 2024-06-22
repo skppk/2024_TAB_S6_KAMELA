@@ -62,7 +62,7 @@ namespace TAB_Stacja
 
         private void Registration_Load(object sender, EventArgs e)
         {
-
+            helpProvider1.HelpNamespace = "../../../html/main.html";
         }
     }
 }

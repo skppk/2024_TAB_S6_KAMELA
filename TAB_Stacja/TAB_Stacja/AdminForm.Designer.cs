@@ -36,6 +36,7 @@
             this.button4 = new System.Windows.Forms.Button();
             this.button5 = new System.Windows.Forms.Button();
             this.button6 = new System.Windows.Forms.Button();
+            this.helpProvider1 = new System.Windows.Forms.HelpProvider();
             this.SuspendLayout();
             // 
             // back_button
@@ -131,6 +132,10 @@
             this.button6.UseVisualStyleBackColor = true;
             this.button6.Click += new System.EventHandler(this.button6_Click);
             // 
+            // helpProvider1
+            // 
+            this.helpProvider1.HelpNamespace = "html/main.html";
+            // 
             // AdminForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -146,6 +151,7 @@
             this.Controls.Add(this.exit_button);
             this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "AdminForm";
+            this.helpProvider1.SetShowHelp(this, true);
             this.Text = "AdminForm";
             this.ResumeLayout(false);
 
@@ -161,5 +167,6 @@
         private System.Windows.Forms.Button button4;
         private System.Windows.Forms.Button button5;
         private System.Windows.Forms.Button button6;
+        private System.Windows.Forms.HelpProvider helpProvider1;
     }
 }
